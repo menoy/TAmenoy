@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.18)  18 MAY 2015 17:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.18)  21 MAY 2015 18:59
 entering extended mode
 **skripsi.tex
-(G:\SkripsiMenoyTex\skripsi.tex
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\skripsi.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -31,7 +31,7 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(G:\SkripsiMenoyTex\uithesis.sty
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\uithesis.sty
 (C:\Users\ta2015\AppData\Roaming\MiKTeX\2.9\tex\latex\tocbibind\tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
@@ -225,7 +225,7 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 \c@ContinuedFloat=\count102
 Package caption Info: hyperref package is loaded.
 )
-(G:\SkripsiMenoyTex\subfloat.sty
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\subfloat.sty
 Package: subfloat 2003/08/21 version 2.14
 
 Package `subfloat', Version 2.14 of 2003/08/21.
@@ -320,7 +320,7 @@ File: pppdftex.def 2015/04/15 v0.4w Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count106
 \AM@templatesizebox=\box27
 )
-(G:\SkripsiMenoyTex\fncychap.sty
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\fncychap.sty
 Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \RW=\skip47
 \mylen=\skip48
@@ -352,7 +352,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks20
 \@floatcapt=\box29
 )
-(G:\SkripsiMenoyTex\fontenc.sty
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
@@ -451,21 +451,28 @@ LaTeX Info: Redefining \cite on input line 694.
 (C:\Users\ta2015\AppData\Roaming\MiKTeX\2.9\tex\latex\import\import.sty
 Package: import 2009/03/23  v 5.1
 )
-(G:\SkripsiMenoyTex\laporan_setting.tex)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\laporan_setting.tex)
 \@input{hype.indonesia.aux}
-(G:\SkripsiMenoyTex\hype.indonesia.tex) (G:\SkripsiMenoyTex\istilah.tex)
-(G:\SkripsiMenoyTex\skripsi.aux (G:\SkripsiMenoyTex\sampul.aux)
-(G:\SkripsiMenoyTex\judul_dalam.aux) (G:\SkripsiMenoyTex\orisinal.aux)
-(G:\SkripsiMenoyTex\pengesahan_sidang.aux) (G:\SkripsiMenoyTex\pengantar.aux)
-(G:\SkripsiMenoyTex\persetujuan_publikasi.aux) (G:\SkripsiMenoyTex\abstrak.aux)
-(G:\SkripsiMenoyTex\abstract.aux) (G:\SkripsiMenoyTex\bab1-pendahuluan.aux)
-(G:\SkripsiMenoyTex\bab2-landasan-teori.aux)
-(G:\SkripsiMenoyTex\bab3-aplikasi-digunakan.aux)
-(G:\SkripsiMenoyTex\bab4-rancangan-dan-analisis.aux)
-(G:\SkripsiMenoyTex\bab5-implementasi-dan-pengujian.aux)
-(G:\SkripsiMenoyTex\bab6-hasil-dan-evaluasi.aux)
-(G:\SkripsiMenoyTex\bab7-kesimpulan.aux) (G:\SkripsiMenoyTex\markLampiran.aux)
-(G:\SkripsiMenoyTex\lampiran.aux))
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\hype.indonesia.tex)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\istilah.tex)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\skripsi.aux
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\sampul.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\judul_dalam.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\orisinal.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\pengesahan_sidang.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\pengantar.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\persetujuan_publikasi.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\abstrak.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\abstract.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab1-pendahuluan.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab2-landasan-teori.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab3-aplikasi-digunakan.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab4-rancangan-dan-analisis.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab5-implementasi-dan-pengujian.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab6-hasil-dan-evaluasi.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab7-kesimpulan.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\markLampiran.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\lampiran.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
@@ -501,7 +508,8 @@ LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
 LaTeX Info: Redefining \nameref on input line 33.
 
-(G:\SkripsiMenoyTex\skripsi.out) (G:\SkripsiMenoyTex\skripsi.out)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\skripsi.out)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\skripsi.out)
 \@outlinefile=\write4
 
 (C:\Users\ta2015\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
@@ -562,7 +570,7 @@ Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count132
 
-(G:\SkripsiMenoyTex\sampul.tex
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\sampul.tex
 <pics/makara.png, id=238, 154.86429pt x 154.34807pt>
 File: pics/makara.png Graphic file (type png)
  <use pics/makara.png>
@@ -578,8 +586,9 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
 
 
 
-{C:/Users/ta2015/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <G:/Skripsi
-MenoyTex/pics/makara.png>]) (G:\SkripsiMenoyTex\judul_dalam.tex
+{C:/Users/ta2015/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/t
+a2015/Documents/GitHub/TAmenoy/pics/makara.png>])
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\judul_dalam.tex
 File: pics/makara.png Graphic file (type png)
 
 <use pics/makara.png>
@@ -588,7 +597,8 @@ Package pdftex.def Info: pics/makara.png used on input line 12.
  [1
 
 
-]) (G:\SkripsiMenoyTex\orisinal.tex
+])
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\orisinal.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 8.
 LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 17
@@ -620,7 +630,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 
 
 ])
-(G:\SkripsiMenoyTex\pengesahan_sidang.tex
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\pengesahan_sidang.tex
 Overfull \hbox (14.74275pt too wide) in paragraph at lines 13--21
 [] 
  []
@@ -649,12 +659,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--45
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 65.
 
-(G:\SkripsiMenoyTex\pengantar.tex) [4
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\pengantar.tex) [4
 
 
 
 ]
-(G:\SkripsiMenoyTex\persetujuan_publikasi.tex
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\persetujuan_publikasi.tex
 Underfull \hbox (badness 10000) in paragraph at lines 30--36
 
  []
@@ -663,7 +673,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--36
 
 
 
-]) (G:\SkripsiMenoyTex\abstrak.tex
+]) (C:\Users\ta2015\Documents\GitHub\TAmenoy\abstrak.tex
 Underfull \hbox (badness 10000) in paragraph at lines 12--17
 
  []
@@ -677,7 +687,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
 
 
-]) (G:\SkripsiMenoyTex\abstract.tex
+]) (C:\Users\ta2015\Documents\GitHub\TAmenoy\abstract.tex
 Underfull \hbox (badness 10000) in paragraph at lines 12--17
 
  []
@@ -691,7 +701,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--27
 
 
 
-]) (G:\SkripsiMenoyTex\skripsi.toc [8
+]) (C:\Users\ta2015\Documents\GitHub\TAmenoy\skripsi.toc [8
 
 
 ])
@@ -709,38 +719,82 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 84.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 8.99994pt on input line 84.
-[9] (G:\SkripsiMenoyTex\skripsi.lof)
+[9] (C:\Users\ta2015\Documents\GitHub\TAmenoy\skripsi.lof)
 \tf@lof=\write6
  [10
 
 
-] (G:\SkripsiMenoyTex\skripsi.lot)
+]
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\skripsi.lot)
 \tf@lot=\write7
+ [11
 
-[11
 
-
-] (G:\SkripsiMenoyTex\skripsi.lol)
+]
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\skripsi.lol)
 \tf@lol=\write8
  [12
 
 
 ]
-(G:\SkripsiMenoyTex\bab1-pendahuluan.tex
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab1-pendahuluan.tex
 BAB 1.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 28.
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--38
-[]
+Underfull \hbox (badness 10000) in paragraph at lines 10--21
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--38
+Underfull \hbox (badness 1946) in paragraph at lines 10--21
+\T1/ptm/m/n/12 Perkembangan teknologi in-for-masi dan ko-mu-nikasi akan mem-buk
+a pelu-ang
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 10--21
+\T1/ptm/m/n/12 dan tan-ta-n-gan un-tuk men-cip-takan, men-gak-ses, men-go-lah d
+an me-man-faatkan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--21
+
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 10--21
+\T1/ptm/m/n/12 Penyediaan in-for-masi ten-tunya tidak hanya di-lakukan oleh ora
+ng ter-tentu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--21
+
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 10--21
+\T1/ptm/m/n/12 Bersama de-ngan perkem-ban-gan in-for-masi, masyarakat me-nun-tu
+t pe-me-rin-tah
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--21
+
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 10--21
+\T1/ptm/m/n/12 Penggunaan web-site dari di-rek-torat jen-deral pa-jak ini sa-ng
+at pen-ting dalam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--21
 
  []
 
@@ -748,53 +802,21 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46 	\item B
-             ab 1 \babSatu \\ [1
+l.21 \begin{enumerate}
+                       [1
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 38.
 
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--48
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-
- []
-
-)
-Overfull \hbox (16.19841pt too wide) in paragraph at lines 55--101
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--101
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
 
  []
 
@@ -804,24 +826,75 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] (G:\SkripsiMenoyTex\bab2-landasan-teori.tex
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+)
+Overfull \hbox (16.19841pt too wide) in paragraph at lines 65--101
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--101
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3] (C:\Users\ta2015\Documents\GitHub\TAmenoy\bab2-landasan-teori.tex
 BAB 2.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-<pics/parallelProblem.png, id=512, 685.56125pt x 373.395pt>
+<pics/parallelProblem.png, id=516, 685.56125pt x 373.395pt>
 File: pics/parallelProblem.png Graphic file (type png)
 
 <use pics/parallelProblem.png>
 Package pdftex.def Info: pics/parallelProblem.png used on input line 28.
 (pdftex.def)             Requested size: 318.67209pt x 173.5699pt.
- [3
+ [4
 
 
 
 ]
-<pics/neumann.pdf, id=525, 10629.51155pt x 9349.42938pt>
+<pics/neumann.pdf, id=529, 10629.51155pt x 9349.42938pt>
 File: pics/neumann.pdf Graphic file (type pdf)
 
 <use pics/neumann.pdf>
@@ -834,13 +907,13 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[4 <G:/SkripsiMenoyTex/pics/parallelProblem.png> <G:/SkripsiMenoyTex/pics/neuma
-nn.pdf>]
+[5 <C:/Users/ta2015/Documents/GitHub/TAmenoy/pics/parallelProblem.png> <C:/User
+s/ta2015/Documents/GitHub/TAmenoy/pics/neumann.pdf>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 62.
 
 
-Package natbib Warning: Citation `gaib' on page 5 undefined on input line 98.
+Package natbib Warning: Citation `gaib' on page 6 undefined on input line 98.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 102.
@@ -854,20 +927,20 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5])
+[6])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6] (G:\SkripsiMenoyTex\bab3-aplikasi-digunakan.tex
+[7] (C:\Users\ta2015\Documents\GitHub\TAmenoy\bab3-aplikasi-digunakan.tex
 BAB 3.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-<pics/alurkickstart.pdf, id=592, 203.5605pt x 192.72pt>
+<pics/alurkickstart.pdf, id=596, 203.5605pt x 192.72pt>
 File: pics/alurkickstart.pdf Graphic file (type pdf)
 
 <use pics/alurkickstart.pdf>
@@ -885,17 +958,17 @@ Underfull \hbox (badness 3471) in paragraph at lines 30--31
 gan-dung kon-fi-gu-rasi \T1/ptm/m/it/12 graph \T1/ptm/m/n/12 adalah berkas
  []
 
-<pics/rollexample.pdf, id=598, 388.65039pt x 247.3256pt>
+<pics/rollexample.pdf, id=602, 388.65039pt x 247.3256pt>
 File: pics/rollexample.pdf Graphic file (type pdf)
 
 <use pics/rollexample.pdf>
 Package pdftex.def Info: pics/rollexample.pdf used on input line 36.
 (pdftex.def)             Requested size: 358.52339pt x 239.01491pt.
- [7
+ [8
 
 
 
- <G:/SkripsiMenoyTex/pics/alurkickstart.pdf>]
+ <C:/Users/ta2015/Documents/GitHub/TAmenoy/pics/alurkickstart.pdf>]
 Overfull \hbox (27.94829pt too wide) in paragraph at lines 69--71
 [] 
  []
@@ -906,20 +979,20 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8 <G:/SkripsiMenoyTex/pics/rollexample.pdf>])
+[9 <C:/Users/ta2015/Documents/GitHub/TAmenoy/pics/rollexample.pdf>])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[9] (G:\SkripsiMenoyTex\bab4-rancangan-dan-analisis.tex
+[10] (C:\Users\ta2015\Documents\GitHub\TAmenoy\bab4-rancangan-dan-analisis.tex
 BAB 4.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-[10
+[11
 
 
 
@@ -935,13 +1008,14 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11] (G:\SkripsiMenoyTex\bab5-implementasi-dan-pengujian.tex
+[12]
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab5-implementasi-dan-pengujian.tex
 BAB 5.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-[12
+[13
 
 
 
@@ -961,7 +1035,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13]
+[14]
 LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <8> not available
 (Font)              Font shape `T1/pcr/b/n' tried instead on input line 132.
 
@@ -971,7 +1045,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14]
+[15]
 (C:\Users\ta2015\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
 File: lstlang1.sty 2014/09/06 1.5e listings language file
 )
@@ -989,26 +1063,26 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15])
+[16])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16] (G:\SkripsiMenoyTex\bab6-hasil-dan-evaluasi.tex
+[17] (C:\Users\ta2015\Documents\GitHub\TAmenoy\bab6-hasil-dan-evaluasi.tex
 BAB 6.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-<pics/5np-gromacs-chart.pdf, id=769, 12848.80281pt x 7227.80281pt>
+<pics/5np-gromacs-chart.pdf, id=773, 12848.80281pt x 7227.80281pt>
 File: pics/5np-gromacs-chart.pdf Graphic file (type pdf)
 
 <use pics/5np-gromacs-chart.pdf>
 Package pdftex.def Info: pics/5np-gromacs-chart.pdf used on input line 41.
 (pdftex.def)             Requested size: 398.3386pt x 223.9934pt.
- [17
+ [18
 
 
 
@@ -1019,18 +1093,18 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18 <G:/SkripsiMenoyTex/pics/5np-gromacs-chart.pdf>]
-(G:\SkripsiMenoyTex\bab7-kesimpulan.tex
+[19 <C:/Users/ta2015/Documents/GitHub/TAmenoy/pics/5np-gromacs-chart.pdf>]
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab7-kesimpulan.tex
 BAB 7.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-) [19
+) [20
 
 
 
-] (G:\SkripsiMenoyTex\skripsi.bbl
+] (C:\Users\ta2015\Documents\GitHub\TAmenoy\skripsi.bbl
 Underfull \hbox (badness 3872) in paragraph at lines 47--52
 []\T1/ptm/m/n/12 Neal, R. (2010).  Cloud com-put-ing brings sav-ings in en-ergy
 , main-te-
@@ -1048,17 +1122,19 @@ Underfull \hbox (badness 2875) in paragraph at lines 54--57
 es . com / denition / english /$
  []
 
-) [20
+) [21
 
 
-] (G:\SkripsiMenoyTex\markLampiran.texpdfTeX warning (ext4): destination with t
-he same identifier (name{page.1}) has been already used, duplicate ignored
+] (C:\Users\ta2015\Documents\GitHub\TAmenoy\markLampiran.texpdfTeX warning (ext
+4): destination with the same identifier (name{page.1}) has been already used, 
+duplicate ignored
 <to be read again> 
                    \relax 
 l.13 \end{titlepage}
                      [1
 
-]) (G:\SkripsiMenoyTex\lampiran.tex
+])
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\lampiran.tex
 LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/pcr/b/n' tried instead on input line 5.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
@@ -1313,18 +1389,24 @@ Package natbib Warning: There were undefined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
-(G:\SkripsiMenoyTex\skripsi.aux (G:\SkripsiMenoyTex\sampul.aux)
-(G:\SkripsiMenoyTex\judul_dalam.aux) (G:\SkripsiMenoyTex\orisinal.aux)
-(G:\SkripsiMenoyTex\pengesahan_sidang.aux) (G:\SkripsiMenoyTex\pengantar.aux)
-(G:\SkripsiMenoyTex\persetujuan_publikasi.aux) (G:\SkripsiMenoyTex\abstrak.aux)
-(G:\SkripsiMenoyTex\abstract.aux) (G:\SkripsiMenoyTex\bab1-pendahuluan.aux)
-(G:\SkripsiMenoyTex\bab2-landasan-teori.aux)
-(G:\SkripsiMenoyTex\bab3-aplikasi-digunakan.aux)
-(G:\SkripsiMenoyTex\bab4-rancangan-dan-analisis.aux)
-(G:\SkripsiMenoyTex\bab5-implementasi-dan-pengujian.aux)
-(G:\SkripsiMenoyTex\bab6-hasil-dan-evaluasi.aux)
-(G:\SkripsiMenoyTex\bab7-kesimpulan.aux) (G:\SkripsiMenoyTex\markLampiran.aux)
-(G:\SkripsiMenoyTex\lampiran.aux))
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\skripsi.aux
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\sampul.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\judul_dalam.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\orisinal.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\pengesahan_sidang.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\pengantar.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\persetujuan_publikasi.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\abstrak.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\abstract.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab1-pendahuluan.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab2-landasan-teori.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab3-aplikasi-digunakan.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab4-rancangan-dan-analisis.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab5-implementasi-dan-pengujian.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab6-hasil-dan-evaluasi.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\bab7-kesimpulan.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\markLampiran.aux)
+(C:\Users\ta2015\Documents\GitHub\TAmenoy\lampiran.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
 Package rerunfilecheck Info: File `skripsi.out' has not changed.
@@ -1332,13 +1414,13 @@ Package rerunfilecheck Info: File `skripsi.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
  ) 
 Here is how much of TeX's memory you used:
- 11882 strings out of 493921
- 175697 string characters out of 3147279
+ 11883 strings out of 493921
+ 178718 string characters out of 3147279
  398665 words of memory out of 3000000
  14504 multiletter control sequences out of 15000+200000
  70252 words of font info for 102 fonts, out of 3000000 for 9000
  939 hyphenation exceptions out of 8191
- 44i,12n,56p,433b,1861s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,12n,56p,610b,1861s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exi
 st, replaced by a fixed one
 
@@ -1360,9 +1442,9 @@ rogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr
 i8a.pfb>
-Output written on skripsi.pdf (43 pages, 421672 bytes).
+Output written on skripsi.pdf (44 pages, 403691 bytes).
 PDF statistics:
- 951 PDF objects out of 1000 (max. 8388607)
- 249 named destinations out of 1000 (max. 500000)
+ 955 PDF objects out of 1000 (max. 8388607)
+ 250 named destinations out of 1000 (max. 500000)
  511 words of extra memory for PDF output out of 10000 (max. 10000000)
 
