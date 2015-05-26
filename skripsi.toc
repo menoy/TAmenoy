@@ -15,51 +15,50 @@
 \contentsline {section}{\numberline {1.3}Tujuan Penelitian}{2}{section.1.3}
 \contentsline {section}{\numberline {1.4}Batasan Penelitian}{3}{section.1.4}
 \contentsline {section}{\numberline {1.5}Metode Penelitian}{3}{section.1.5}
-\contentsline {paragraph}{}{4}{section*.10}
 \contentsline {section}{\numberline {1.6}Sistematika Penulisan}{4}{section.1.6}
-\contentsline {chapter}{\numberline {2}\uppercase {Tinjauan Pustaka}}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}X si sesuatu}{5}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Pengertian X}{5}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Klasifikasi X}{6}{subsection.2.1.2}
-\contentsline {paragraph}{}{7}{section*.13}
-\contentsline {section}{\numberline {2.2}\textit {Section in Eng}}{7}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Pengertian \textit {Section in Eng}}{7}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Next Subsection \textit {Section in Eng}}{7}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}\textit {Keatas lagi}}{7}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}\textit {Masuk lagi}}{8}{subsection.2.3.1}
-\contentsline {chapter}{\numberline {3}\uppercase {Metodologi Penelitian}}{9}{chapter.3}
-\contentsline {section}{\numberline {3.1}NPACI Rocks}{9}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}XZXX}{9}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Rocks Rolls}{9}{subsection.3.1.2}
-\contentsline {section}{\numberline {3.2}Mengubah Tampilan Teks}{10}{section.3.2}
-\contentsline {section}{\numberline {3.3}Memberikan Catatan}{10}{section.3.3}
-\contentsline {section}{\numberline {3.4}Menambah Isi Daftar Isi}{11}{section.3.4}
-\contentsline {chapter}{\numberline {4}\uppercase {Analisis Kebutuhan dan Pendefinisian \textit {Requirement}}}{12}{chapter.4}
-\contentsline {section}{\numberline {4.1}Membuat Tabel}{12}{section.4.1}
-\contentsline {section}{\numberline {4.2}thesis.tex}{13}{section.4.2}
-\contentsline {section}{\numberline {4.3}laporan\_setting.tex}{13}{section.4.3}
-\contentsline {section}{\numberline {4.4}istilah.tex}{13}{section.4.4}
-\contentsline {section}{\numberline {4.5}hype.indonesia.tex}{13}{section.4.5}
-\contentsline {chapter}{\numberline {5}\uppercase {\textit {Prototyping} dan Evaluasi}}{14}{chapter.5}
-\contentsline {section}{\numberline {5.1}Implementasi \textit {Cluster}}{14}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Instalasi \textit {Frontend}}{14}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Konfigurasi}{16}{subsection.5.1.2}
-\contentsline {paragraph}{}{16}{section*.23}
-\contentsline {subsubsection}{\numberline {5.1.2.1}semakin ke dalam}{17}{subsubsection.5.1.2.1}
-\contentsline {section}{\numberline {5.2}Pengujian}{17}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Kasus Uji}{17}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Kasus Uji}{18}{subsection.5.2.2}
-\contentsline {chapter}{\numberline {6}\uppercase {Penutup}}{19}{chapter.6}
-\contentsline {section}{\numberline {6.1}Hasil Pengujian}{19}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Hasil Pengujian Kasus Uji 1}{19}{subsection.6.1.1}
-\contentsline {section}{\numberline {6.2}Evaluasi Hasil Kasus Uji}{19}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Evaluasi Kasus Uji 1}{19}{subsection.6.2.1}
-\contentsline {paragraph}{}{20}{section*.28}
-\contentsline {chapter}{\numberline {7}\uppercase {}}{21}{chapter.7}
-\contentsline {section}{\numberline {7.1}Kesimpulan}{21}{section.7.1}
-\contentsline {section}{\numberline {7.2}Saran}{21}{section.7.2}
-\contentsline {chapter}{Daftar Referensi}{22}{section.7.2}
-\contentsline {chapter}{LAMPIRAN}{1}{section*.29}
-\contentsline {chapter}{Lampiran 1 : Kode Sumber}{2}{section*.30}
-\contentsline {chapter}{Lampiran 2 : Berkas Konfigurasi}{2}{section*.33}
-\contentsline {chapter}{Lampiran 8 : UAT dan Kuesioner}{3}{section*.35}
+\contentsline {chapter}{\numberline {2}\uppercase {Tinjauan Pustaka}}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}\textit {E-Government}}{6}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Pengertian X}{6}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Klasifikasi X}{7}{subsection.2.1.2}
+\contentsline {paragraph}{}{8}{section*.12}
+\contentsline {section}{\numberline {2.2}\textit {Section in Eng}}{8}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Pengertian \textit {Section in Eng}}{8}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Next Subsection \textit {Section in Eng}}{8}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}\textit {Keatas lagi}}{8}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}\textit {Masuk lagi}}{9}{subsection.2.3.1}
+\contentsline {chapter}{\numberline {3}\uppercase {Metodologi Penelitian}}{10}{chapter.3}
+\contentsline {section}{\numberline {3.1}NPACI Rocks}{10}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}XZXX}{10}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Rocks Rolls}{10}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Mengubah Tampilan Teks}{11}{section.3.2}
+\contentsline {section}{\numberline {3.3}Memberikan Catatan}{11}{section.3.3}
+\contentsline {section}{\numberline {3.4}Menambah Isi Daftar Isi}{12}{section.3.4}
+\contentsline {chapter}{\numberline {4}\uppercase {Analisis Kebutuhan dan Pendefinisian \textit {Requirement}}}{13}{chapter.4}
+\contentsline {section}{\numberline {4.1}Membuat Tabel}{13}{section.4.1}
+\contentsline {section}{\numberline {4.2}thesis.tex}{14}{section.4.2}
+\contentsline {section}{\numberline {4.3}laporan\_setting.tex}{14}{section.4.3}
+\contentsline {section}{\numberline {4.4}istilah.tex}{14}{section.4.4}
+\contentsline {section}{\numberline {4.5}hype.indonesia.tex}{14}{section.4.5}
+\contentsline {chapter}{\numberline {5}\uppercase {\textit {Prototyping} dan Evaluasi}}{15}{chapter.5}
+\contentsline {section}{\numberline {5.1}Implementasi \textit {Cluster}}{15}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Instalasi \textit {Frontend}}{15}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Konfigurasi}{17}{subsection.5.1.2}
+\contentsline {paragraph}{}{17}{section*.22}
+\contentsline {subsubsection}{\numberline {5.1.2.1}semakin ke dalam}{18}{subsubsection.5.1.2.1}
+\contentsline {section}{\numberline {5.2}Pengujian}{18}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Kasus Uji}{18}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Kasus Uji}{19}{subsection.5.2.2}
+\contentsline {chapter}{\numberline {6}\uppercase {Penutup}}{20}{chapter.6}
+\contentsline {section}{\numberline {6.1}Hasil Pengujian}{20}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Hasil Pengujian Kasus Uji 1}{20}{subsection.6.1.1}
+\contentsline {section}{\numberline {6.2}Evaluasi Hasil Kasus Uji}{20}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Evaluasi Kasus Uji 1}{20}{subsection.6.2.1}
+\contentsline {paragraph}{}{21}{section*.27}
+\contentsline {chapter}{\numberline {7}\uppercase {}}{22}{chapter.7}
+\contentsline {section}{\numberline {7.1}Kesimpulan}{22}{section.7.1}
+\contentsline {section}{\numberline {7.2}Saran}{22}{section.7.2}
+\contentsline {chapter}{Daftar Referensi}{23}{section.7.2}
+\contentsline {chapter}{LAMPIRAN}{1}{section*.28}
+\contentsline {chapter}{Lampiran 1 : Kode Sumber}{2}{section*.29}
+\contentsline {chapter}{Lampiran 2 : Berkas Konfigurasi}{2}{section*.32}
+\contentsline {chapter}{Lampiran 8 : UAT dan Kuesioner}{3}{section*.34}
