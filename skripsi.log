@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.12)  30 MAY 2015 22:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.12)  31 MAY 2015 09:12
 entering extended mode
 **skripsi.tex
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.tex"
@@ -466,8 +466,8 @@ Package: import 2009/03/23  v 5.1
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\abstract.aux")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab1-pendahuluan.aux")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab2-tinjauan-pustaka.aux")
-("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab3-aplikasi-digunakan.aux")
-
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab3-metodologi-penelitian.au
+x")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab4-rancangan-dan-analisis.a
 ux")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab5-implementasi-dan-penguji
@@ -574,7 +574,7 @@ Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count132
 
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\sampul.tex"
-<pics/makara.png, id=250, 154.86429pt x 154.34807pt>
+<pics/makara.png, id=314, 154.86429pt x 154.34807pt>
 File: pics/makara.png Graphic file (type png)
  <use pics/makara.png>
 Package pdftex.def Info: pics/makara.png used on input line 14.
@@ -707,7 +707,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--27
 ]) ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.toc" [8
 
 
-])
+]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 79.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 79.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 8.99994pt on input line 79.
+[9])
 \tf@toc=\write5
 
 
@@ -716,27 +729,21 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 84.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 84.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.99994pt on input line 84.
-[9] ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.lof")
+[10] ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.lof")
 \tf@lof=\write6
- [10
+ [11
 
 
 ]
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.lot")
 \tf@lot=\write7
- [11
+ [12
 
 
 ]
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.lol")
 \tf@lol=\write8
- [12
+ [13
 
 
 ]
@@ -850,23 +857,30 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 8.
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 14.
+(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 17.
 [5
 
 
 
-] <pics/parallelProblem.png, id=550, 685.56125pt x 373.395pt>
+]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6] <pics/parallelProblem.png, id=655, 685.56125pt x 373.395pt>
 File: pics/parallelProblem.png Graphic file (type png)
 
 <use pics/parallelProblem.png>
-Package pdftex.def Info: pics/parallelProblem.png used on input line 35.
+Package pdftex.def Info: pics/parallelProblem.png used on input line 51.
 (pdftex.def)             Requested size: 318.67209pt x 173.5699pt.
 
-<pics/neumann.pdf, id=559, 10629.51155pt x 9349.42938pt>
+<pics/neumann.pdf, id=664, 10629.51155pt x 9349.42938pt>
 File: pics/neumann.pdf Graphic file (type pdf)
 
 <use pics/neumann.pdf>
-Package pdftex.def Info: pics/neumann.pdf used on input line 55.
+Package pdftex.def Info: pics/neumann.pdf used on input line 71.
 (pdftex.def)             Requested size: 238.9104pt x 258.78636pt.
 
 
@@ -875,23 +889,23 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/parallelProblem.png>]
+[7 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/parallelProblem.png>]
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[7 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/neumann.pdf>]
+[8 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/neumann.pdf>]
 
-Package natbib Warning: Citation `gaib' on page 8 undefined on input line 105.
+Package natbib Warning: Citation `gaib' on page 9 undefined on input line 121.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 109.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 109.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 109.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 )
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -899,14 +913,15 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8]
-("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab3-aplikasi-digunakan.tex"
+[9]
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab3-metodologi-penelitian.te
+x"
 BAB 3.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-<pics/alurkickstart.pdf, id=627, 203.5605pt x 192.72pt>
+<pics/alurkickstart.pdf, id=731, 203.5605pt x 192.72pt>
 File: pics/alurkickstart.pdf Graphic file (type pdf)
 
 <use pics/alurkickstart.pdf>
@@ -924,13 +939,13 @@ Underfull \hbox (badness 3471) in paragraph at lines 30--31
 gan-dung kon-fi-gu-rasi \T1/ptm/m/it/12 graph \T1/ptm/m/n/12 adalah berkas
  []
 
-<pics/rollexample.pdf, id=633, 388.65039pt x 247.3256pt>
+<pics/rollexample.pdf, id=737, 388.65039pt x 247.3256pt>
 File: pics/rollexample.pdf Graphic file (type pdf)
 
 <use pics/rollexample.pdf>
 Package pdftex.def Info: pics/rollexample.pdf used on input line 36.
 (pdftex.def)             Requested size: 358.52339pt x 239.01491pt.
- [9
+ [10
 
 
 
@@ -945,14 +960,14 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rollexample.pdf>])
+[11 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rollexample.pdf>])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11]
+[12]
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab4-rancangan-dan-analisis.t
 ex"
 BAB 4.
@@ -960,7 +975,7 @@ BAB 4.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-[12
+[13
 
 
 
@@ -976,7 +991,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13]
+[14]
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab5-implementasi-dan-penguji
 an.tex"
 BAB 5.
@@ -984,7 +999,7 @@ BAB 5.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-[14
+[15
 
 
 
@@ -1004,7 +1019,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15]
+[16]
 LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <8> not available
 (Font)              Font shape `T1/pcr/b/n' tried instead on input line 132.
 
@@ -1014,7 +1029,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16] ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+[17] ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2014/09/06 1.5e listings language file
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
@@ -1031,27 +1046,27 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17])
+[18])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18]
+[19]
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab6-hasil-dan-evaluasi.tex"
 BAB 6.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-<pics/5np-gromacs-chart.pdf, id=805, 12848.80281pt x 7227.80281pt>
+<pics/5np-gromacs-chart.pdf, id=909, 12848.80281pt x 7227.80281pt>
 File: pics/5np-gromacs-chart.pdf Graphic file (type pdf)
 
 <use pics/5np-gromacs-chart.pdf>
 Package pdftex.def Info: pics/5np-gromacs-chart.pdf used on input line 41.
 (pdftex.def)             Requested size: 398.3386pt x 223.9934pt.
- [19
+ [20
 
 
 
@@ -1062,14 +1077,14 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[20 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/5np-gromacs-chart.pdf
+[21 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/5np-gromacs-chart.pdf
 >] ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab7-kesimpulan.tex"
 BAB 7.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-) [21
+) [22
 
 
 
@@ -1091,7 +1106,7 @@ Underfull \hbox (badness 2875) in paragraph at lines 54--57
 es . com / denition / english /$
  []
 
-) [22
+) [23
 
 
 ] ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\markLampiran.tex"pdfTeX war
@@ -1369,8 +1384,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\abstract.aux")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab1-pendahuluan.aux")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab2-tinjauan-pustaka.aux")
-("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab3-aplikasi-digunakan.aux")
-
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab3-metodologi-penelitian.au
+x")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab4-rancangan-dan-analisis.a
 ux")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab5-implementasi-dan-penguji
@@ -1382,14 +1397,14 @@ an.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
 Package rerunfilecheck Info: File `skripsi.out' has not changed.
-(rerunfilecheck)             Checksum: DC18505FD176A6654524A769CF5F910A;4147.
+(rerunfilecheck)             Checksum: 594F22E08A6EDA5C0700029471FF699D;5480.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
  ) 
 Here is how much of TeX's memory you used:
- 11901 strings out of 493921
- 178884 string characters out of 3147258
- 398666 words of memory out of 3000000
- 14508 multiletter control sequences out of 15000+200000
+ 11935 strings out of 493921
+ 179448 string characters out of 3147258
+ 398683 words of memory out of 3000000
+ 14524 multiletter control sequences out of 15000+200000
  70252 words of font info for 102 fonts, out of 3000000 for 9000
  940 hyphenation exceptions out of 8191
  44i,12n,56p,610b,1861s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1414,9 +1429,9 @@ rogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr
 i8a.pfb>
-Output written on skripsi.pdf (45 pages, 410206 bytes).
+Output written on skripsi.pdf (47 pages, 424833 bytes).
 PDF statistics:
- 989 PDF objects out of 1000 (max. 8388607)
- 263 named destinations out of 1000 (max. 500000)
- 535 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1096 PDF objects out of 1200 (max. 8388607)
+ 281 named destinations out of 1000 (max. 500000)
+ 663 words of extra memory for PDF output out of 10000 (max. 10000000)
 

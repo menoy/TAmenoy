@@ -16,48 +16,64 @@
 \BOOKMARK [1][-]{section.1.5}{1.5 Sistematika Penulisan}{chapter.1}% 16
 \BOOKMARK [0][-]{chapter.2}{2 Tinjauan Pustaka}{}% 17
 \BOOKMARK [1][-]{section.2.1}{2.1 E-Government}{chapter.2}% 18
-\BOOKMARK [1][-]{section.2.2}{2.2 Usability}{chapter.2}% 19
-\BOOKMARK [1][-]{section.2.3}{2.3 Usability Testing}{chapter.2}% 20
-\BOOKMARK [1][-]{section.2.4}{2.4 Prototyping}{chapter.2}% 21
-\BOOKMARK [1][-]{section.2.5}{2.5 Website Direktorat Jenderal Pajak}{chapter.2}% 22
-\BOOKMARK [2][-]{subsection.2.5.1}{2.5.1 Pengertian X}{section.2.5}% 23
-\BOOKMARK [2][-]{subsection.2.5.2}{2.5.2 Klasifikasi X}{section.2.5}% 24
-\BOOKMARK [1][-]{section.2.6}{2.6 Section in Eng}{chapter.2}% 25
-\BOOKMARK [2][-]{subsection.2.6.1}{2.6.1 Pengertian Section in Eng}{section.2.6}% 26
-\BOOKMARK [2][-]{subsection.2.6.2}{2.6.2 Next Subsection Section in Eng}{section.2.6}% 27
-\BOOKMARK [1][-]{section.2.7}{2.7 Keatas lagi}{chapter.2}% 28
-\BOOKMARK [2][-]{subsection.2.7.1}{2.7.1 Masuk lagi}{section.2.7}% 29
-\BOOKMARK [0][-]{chapter.3}{3 Metodologi Penelitian}{}% 30
-\BOOKMARK [1][-]{section.3.1}{3.1 NPACI Rocks}{chapter.3}% 31
-\BOOKMARK [2][-]{subsection.3.1.1}{3.1.1 XZXX}{section.3.1}% 32
-\BOOKMARK [2][-]{subsection.3.1.2}{3.1.2 Rocks Rolls}{section.3.1}% 33
-\BOOKMARK [1][-]{section.3.2}{3.2 Mengubah Tampilan Teks}{chapter.3}% 34
-\BOOKMARK [1][-]{section.3.3}{3.3 Memberikan Catatan}{chapter.3}% 35
-\BOOKMARK [1][-]{section.3.4}{3.4 Menambah Isi Daftar Isi}{chapter.3}% 36
-\BOOKMARK [0][-]{chapter.4}{4 Analisis Kebutuhan dan Pendefinisian Requirement}{}% 37
-\BOOKMARK [1][-]{section.4.1}{4.1 Membuat Tabel}{chapter.4}% 38
-\BOOKMARK [1][-]{section.4.2}{4.2 thesis.tex}{chapter.4}% 39
-\BOOKMARK [1][-]{section.4.3}{4.3 laporan\137setting.tex}{chapter.4}% 40
-\BOOKMARK [1][-]{section.4.4}{4.4 istilah.tex}{chapter.4}% 41
-\BOOKMARK [1][-]{section.4.5}{4.5 hype.indonesia.tex}{chapter.4}% 42
-\BOOKMARK [0][-]{chapter.5}{5 Prototyping dan Evaluasi}{}% 43
-\BOOKMARK [1][-]{section.5.1}{5.1 Implementasi Cluster}{chapter.5}% 44
-\BOOKMARK [2][-]{subsection.5.1.1}{5.1.1 Instalasi Frontend}{section.5.1}% 45
-\BOOKMARK [2][-]{subsection.5.1.2}{5.1.2 Konfigurasi}{section.5.1}% 46
-\BOOKMARK [3][-]{subsubsection.5.1.2.1}{5.1.2.1 semakin ke dalam}{subsection.5.1.2}% 47
-\BOOKMARK [1][-]{section.5.2}{5.2 Pengujian}{chapter.5}% 48
-\BOOKMARK [2][-]{subsection.5.2.1}{5.2.1 Kasus Uji}{section.5.2}% 49
-\BOOKMARK [2][-]{subsection.5.2.2}{5.2.2 Kasus Uji}{section.5.2}% 50
-\BOOKMARK [0][-]{chapter.6}{6 Penutup}{}% 51
-\BOOKMARK [1][-]{section.6.1}{6.1 Hasil Pengujian}{chapter.6}% 52
-\BOOKMARK [2][-]{subsection.6.1.1}{6.1.1 Hasil Pengujian Kasus Uji 1}{section.6.1}% 53
-\BOOKMARK [1][-]{section.6.2}{6.2 Evaluasi Hasil Kasus Uji}{chapter.6}% 54
-\BOOKMARK [2][-]{subsection.6.2.1}{6.2.1 Evaluasi Kasus Uji 1}{section.6.2}% 55
-\BOOKMARK [0][-]{chapter.7}{7 }{}% 56
-\BOOKMARK [1][-]{section.7.1}{7.1 Kesimpulan}{chapter.7}% 57
-\BOOKMARK [1][-]{section.7.2}{7.2 Saran}{chapter.7}% 58
-\BOOKMARK [0][-]{section.7.2}{Daftar Referensi}{}% 59
-\BOOKMARK [0][-]{section*.28}{LAMPIRAN}{}% 60
-\BOOKMARK [0][-]{section*.29}{Lampiran 1 : Kode Sumber}{}% 61
-\BOOKMARK [0][-]{section*.32}{Lampiran 2 : Berkas Konfigurasi}{}% 62
-\BOOKMARK [0][-]{section*.34}{Lampiran 8 : UAT dan Kuesioner}{}% 63
+\BOOKMARK [2][-]{subsection.2.1.1}{2.1.1 Definisi E-Governement}{section.2.1}% 19
+\BOOKMARK [2][-]{subsection.2.1.2}{2.1.2 Jenis E-Government}{section.2.1}% 20
+\BOOKMARK [2][-]{subsection.2.1.3}{2.1.3 Metode g-Quality}{section.2.1}% 21
+\BOOKMARK [1][-]{section.2.2}{2.2 Usability}{chapter.2}% 22
+\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 Definisi Usability}{section.2.2}% 23
+\BOOKMARK [2][-]{subsection.2.2.2}{2.2.2 Komponen Usability}{section.2.2}% 24
+\BOOKMARK [2][-]{subsection.2.2.3}{2.2.3 Nielsen's Usability Heuristics}{section.2.2}% 25
+\BOOKMARK [1][-]{section.2.3}{2.3 Usability Testing}{chapter.2}% 26
+\BOOKMARK [2][-]{subsection.2.3.1}{2.3.1 Definisi Usability Testing}{section.2.3}% 27
+\BOOKMARK [2][-]{subsection.2.3.2}{2.3.2 Tujuan Usability Testing}{section.2.3}% 28
+\BOOKMARK [2][-]{subsection.2.3.3}{2.3.3 Pengukuran Usability Testing}{section.2.3}% 29
+\BOOKMARK [1][-]{section.2.4}{2.4 Prototyping}{chapter.2}% 30
+\BOOKMARK [2][-]{subsection.2.4.1}{2.4.1 Definisi Prototyping}{section.2.4}% 31
+\BOOKMARK [2][-]{subsection.2.4.2}{2.4.2 Jenis-jenis Prototyping}{section.2.4}% 32
+\BOOKMARK [2][-]{subsection.2.4.3}{2.4.3 Clickable Prototype}{section.2.4}% 33
+\BOOKMARK [1][-]{section.2.5}{2.5 Direktorat Jenderal Pajak}{chapter.2}% 34
+\BOOKMARK [1][-]{section.2.6}{2.6 Website Direktorat Jenderal Pajak}{chapter.2}% 35
+\BOOKMARK [2][-]{subsection.2.6.1}{2.6.1 Website Direktorat Jenderal Pajak Indonesia}{section.2.6}% 36
+\BOOKMARK [2][-]{subsection.2.6.2}{2.6.2 Website Direktorat Jenderal Pajak India}{section.2.6}% 37
+\BOOKMARK [1][-]{section.2.7}{2.7 t-Test}{chapter.2}% 38
+\BOOKMARK [2][-]{subsection.2.7.1}{2.7.1 Pengertian X}{section.2.7}% 39
+\BOOKMARK [2][-]{subsection.2.7.2}{2.7.2 Klasifikasi X}{section.2.7}% 40
+\BOOKMARK [1][-]{section.2.8}{2.8 Section in Eng}{chapter.2}% 41
+\BOOKMARK [2][-]{subsection.2.8.1}{2.8.1 Pengertian Section in Eng}{section.2.8}% 42
+\BOOKMARK [2][-]{subsection.2.8.2}{2.8.2 Next Subsection Section in Eng}{section.2.8}% 43
+\BOOKMARK [1][-]{section.2.9}{2.9 Keatas lagi}{chapter.2}% 44
+\BOOKMARK [2][-]{subsection.2.9.1}{2.9.1 Masuk lagi}{section.2.9}% 45
+\BOOKMARK [0][-]{chapter.3}{3 Metodologi Penelitian}{}% 46
+\BOOKMARK [1][-]{section.3.1}{3.1 NPACI Rocks}{chapter.3}% 47
+\BOOKMARK [2][-]{subsection.3.1.1}{3.1.1 XZXX}{section.3.1}% 48
+\BOOKMARK [2][-]{subsection.3.1.2}{3.1.2 Rocks Rolls}{section.3.1}% 49
+\BOOKMARK [1][-]{section.3.2}{3.2 Mengubah Tampilan Teks}{chapter.3}% 50
+\BOOKMARK [1][-]{section.3.3}{3.3 Memberikan Catatan}{chapter.3}% 51
+\BOOKMARK [1][-]{section.3.4}{3.4 Menambah Isi Daftar Isi}{chapter.3}% 52
+\BOOKMARK [0][-]{chapter.4}{4 Analisis Kebutuhan dan Pendefinisian Requirement}{}% 53
+\BOOKMARK [1][-]{section.4.1}{4.1 Membuat Tabel}{chapter.4}% 54
+\BOOKMARK [1][-]{section.4.2}{4.2 thesis.tex}{chapter.4}% 55
+\BOOKMARK [1][-]{section.4.3}{4.3 laporan\137setting.tex}{chapter.4}% 56
+\BOOKMARK [1][-]{section.4.4}{4.4 istilah.tex}{chapter.4}% 57
+\BOOKMARK [1][-]{section.4.5}{4.5 hype.indonesia.tex}{chapter.4}% 58
+\BOOKMARK [0][-]{chapter.5}{5 Prototyping dan Evaluasi}{}% 59
+\BOOKMARK [1][-]{section.5.1}{5.1 Implementasi Cluster}{chapter.5}% 60
+\BOOKMARK [2][-]{subsection.5.1.1}{5.1.1 Instalasi Frontend}{section.5.1}% 61
+\BOOKMARK [2][-]{subsection.5.1.2}{5.1.2 Konfigurasi}{section.5.1}% 62
+\BOOKMARK [3][-]{subsubsection.5.1.2.1}{5.1.2.1 semakin ke dalam}{subsection.5.1.2}% 63
+\BOOKMARK [1][-]{section.5.2}{5.2 Pengujian}{chapter.5}% 64
+\BOOKMARK [2][-]{subsection.5.2.1}{5.2.1 Kasus Uji}{section.5.2}% 65
+\BOOKMARK [2][-]{subsection.5.2.2}{5.2.2 Kasus Uji}{section.5.2}% 66
+\BOOKMARK [0][-]{chapter.6}{6 Penutup}{}% 67
+\BOOKMARK [1][-]{section.6.1}{6.1 Hasil Pengujian}{chapter.6}% 68
+\BOOKMARK [2][-]{subsection.6.1.1}{6.1.1 Hasil Pengujian Kasus Uji 1}{section.6.1}% 69
+\BOOKMARK [1][-]{section.6.2}{6.2 Evaluasi Hasil Kasus Uji}{chapter.6}% 70
+\BOOKMARK [2][-]{subsection.6.2.1}{6.2.1 Evaluasi Kasus Uji 1}{section.6.2}% 71
+\BOOKMARK [0][-]{chapter.7}{7 }{}% 72
+\BOOKMARK [1][-]{section.7.1}{7.1 Kesimpulan}{chapter.7}% 73
+\BOOKMARK [1][-]{section.7.2}{7.2 Saran}{chapter.7}% 74
+\BOOKMARK [0][-]{section.7.2}{Daftar Referensi}{}% 75
+\BOOKMARK [0][-]{section*.28}{LAMPIRAN}{}% 76
+\BOOKMARK [0][-]{section*.29}{Lampiran 1 : Kode Sumber}{}% 77
+\BOOKMARK [0][-]{section*.32}{Lampiran 2 : Berkas Konfigurasi}{}% 78
+\BOOKMARK [0][-]{section*.34}{Lampiran 8 : UAT dan Kuesioner}{}% 79
