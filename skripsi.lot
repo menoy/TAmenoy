@@ -1,16 +1,30 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {2.1}{\ignorespaces Fungsi fundamental MPI\relax }}{9}{table.caption.13}
+\contentsline {table}{\numberline {2.1}{\ignorespaces Pemetaan kriteria \textit {e-government} terhadap komponen \textit {usability heuristic} dan \textit {g-Quality}\relax }}{11}{table.caption.4}
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Tabel Kuesioner Komponen \textit {Usability Heuristic} \relax }}{19}{table.caption.7}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Tabel Kuesioner Komponen Kepuasan Pengguna\relax }}{20}{table.caption.8}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Kuesioner Komponen Kepuasan Pengguna\relax }}{20}{table.caption.9}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Skala Likert pada Kuesioner\relax }}{25}{table.caption.10}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces Contoh Tabel\relax }}{13}{table.caption.16}
-\contentsline {table}{\numberline {4.2}{\ignorespaces An Example of Rows Spanning Multiple Columns\relax }}{13}{table.caption.17}
-\contentsline {table}{\numberline {4.3}{\ignorespaces An Example of Columns Spanning Multiple Rows\relax }}{13}{table.caption.18}
-\contentsline {table}{\numberline {4.4}{\ignorespaces An Example of Spanning in Both Directions Simultaneously\relax }}{14}{table.caption.19}
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {5.1}{\ignorespaces Informasi \textit {cluster} X\relax }}{15}{table.caption.20}
-\contentsline {table}{\numberline {5.2}{\ignorespaces Perbandingan Partisi \textit {default} dan manual\relax }}{16}{table.caption.21}
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {6.1}{\ignorespaces Hasil pengujian menggunakan gromacs\relax }}{20}{table.caption.25}
-\addvspace {10\p@ }
-\contentsline {table}{\numberline {1}{\ignorespaces Tabel UAT dan Kuesioner}}{4}{table.0.1}
+\contentsline {table}{\numberline {4.1}{\ignorespaces Hasil uji validitas terhadap komponen \textit {usability heuristic}.\relax }}{34}{table.caption.20}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Hasil uji validitas terhadap komponen kepuasan pengguna.\relax }}{35}{table.caption.21}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Hasil uji validitas terhadap komponen \textit {g-Quality}.\relax }}{35}{table.caption.22}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Kategori Cronbach's Alpha\relax }}{36}{table.caption.23}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Hasil penghitungan Cronbach's Alpha terhadap instrumen\relax }}{36}{table.caption.24}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Hasil statistik deskriptif terhadap komponen \textit {usability heuristic}.\relax }}{37}{table.caption.25}
+\contentsline {table}{\numberline {4.7}{\ignorespaces Hasil \textit {paired samples T-test} terhadap komponen \textit {usability heuristic}.\relax }}{38}{table.caption.26}
+\contentsline {table}{\numberline {4.8}{\ignorespaces Rata-rata nilai unit pada komponen \textit {usability heuristic}\relax }}{38}{table.caption.27}
+\contentsline {table}{\numberline {4.9}{\ignorespaces Hasil statistik deskriptif terhadap komponen kepuasan pengguna\relax }}{40}{table.caption.29}
+\contentsline {table}{\numberline {4.10}{\ignorespaces Hasil \textit {paired samples T-test} terhadap komponen kepuasan pengguna\relax }}{41}{table.caption.30}
+\contentsline {table}{\numberline {4.11}{\ignorespaces Hasil statistik deskriptif terhadap komponen \textit {g-Quality}\relax }}{42}{table.caption.31}
+\contentsline {table}{\numberline {4.12}{\ignorespaces Hasil \textit {paired samples T-test} terhadap komponen \textit {g-quality}\relax }}{43}{table.caption.32}
+\contentsline {table}{\numberline {4.13}{\ignorespaces Rata-rata nilai unit pada komponen \textit {g-quality}\relax }}{43}{table.caption.33}
+\contentsline {table}{\numberline {4.14}{\ignorespaces Hasil statistik deskriptif terhadap lama waktu pengerjaan tugas\relax }}{45}{table.caption.35}
+\contentsline {table}{\numberline {4.15}{\ignorespaces Hasil \textit {paired samples T-test} terhadap lama waktu pengerjaan tugas\relax }}{46}{table.caption.36}
+\contentsline {table}{\numberline {4.16}{\ignorespaces Hasil statistik deskriptif terhadap tugas yang berhasil dikerjakan\relax }}{47}{table.caption.37}
+\contentsline {table}{\numberline {4.17}{\ignorespaces Rank \textit {wilcoxon signed rank test} terhadap tugas yang berhasil dikerjakan\relax }}{48}{table.caption.38}
+\contentsline {table}{\numberline {4.18}{\ignorespaces Hasil \textit {wilcoxon signed rank test} terhadap tugas yang berhasil dikerjakan\relax }}{48}{table.caption.39}
+\contentsline {table}{\numberline {4.19}{\ignorespaces Hasil statistik deskriptif terhadap tugas yang gagal dikerjakan responden\relax }}{49}{table.caption.40}
+\contentsline {table}{\numberline {4.20}{\ignorespaces Rank \textit {wilcoxon signed rank test} terhadap tugas yang berhasil dikerjakan responden\relax }}{50}{table.caption.41}
+\contentsline {table}{\numberline {4.21}{\ignorespaces Hasil \textit {wilcoxon signed rank test} terhadap tugas yang berhasil dikerjakan responden\relax }}{50}{table.caption.42}

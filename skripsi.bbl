@@ -1,68 +1,87 @@
 \begin{thebibliography}{}
 
-\bibitem[Buyya, 1999]{book.buyya}
-Buyya, R. (1999).
-\newblock {\em High Performance Cluster Computing: Architectures and systems}.
-\newblock High Performance Cluster Computing. Prentice Hall PTR.
+\bibitem[Creswell, 2003]{buku.creswell}
+Creswell, J. (2003).
+\newblock {\em Research Design: Qualitative, Quantitative and Mixed Methods
+  Approaches Second Edition}.
+\newblock Thousand Oaks: Sage Publications.
 
-\bibitem[Guarddin, 2010]{adin.experiment}
-Guarddin, G. (2010).
-\newblock {Percobaan Kompresi Menggunakan MPIBZIP2 pada Cluster Hastinapura}.
-\newblock Peronal Communication.
+\bibitem[Dumas dan Loring, 2008]{buku.dumas}
+Dumas, J. dan Loring, B. (2008).
+\newblock {\em Moderating Usability Tests: Principles and Practices for
+  Interacting}.
 
-\bibitem[Jackson et~al., 2001]{paper.jackson}
-Jackson, D.~B., Snell, Q., dan Clement, M.~J. (2001).
-\newblock Core algorithms of the maui scheduler.
-\newblock In {\em Revised Papers from the 7th International Workshop on Job
-  Scheduling Strategies for Parallel Processing}, JSSPP '01, pages 87--102,
-  London, UK, UK. Springer-Verlag.
+\bibitem[Dyahningrum, 2012]{buku.dyahningrum}
+Dyahningrum, S. (2012).
+\newblock {\em Perancangan Strategi dan User Interface Layanan Online Video
+  Sharing pada PT. Beoscope Dotkom}.
+\newblock Depok: Fakultas Ilmu Komputer Universitas Indonesia.
 
-\bibitem[Jones et~al., 2002]{book.sterling-jones}
-Jones, J.~P., Lifka, D., Nitzberg, B., dan Tannenbaum, T. (2002).
-\newblock Cluster workload management.
-\newblock In Sterling, T., editor, {\em Beowulf cluster computing with Linux},
-  pages 301--306. MIT Press, Cambridge, MA, USA.
+\bibitem[Field, 2005]{buku.field}
+Field, A. (2005).
+\newblock {\em Discovering Statistics Using SPSS: Second Edition (and sex,
+  drugs and rock 'n' roll}.
+\newblock SAGE Publications Inc.
 
-\bibitem[McGuire, 2010]{article.mcguire}
-McGuire, T.~J. (2010).
-\newblock A gentle way of introducing multi-core programming into the
-  curriculum: tutorial presentation.
-\newblock {\em J. Comput. Sci. Coll.}, 26(1):124--125.
+\bibitem[Garcia et~al., 2005]{paper.garcia}
+Garcia, A., Maciel, C., dan F.B., P. (2005).
+\newblock A quality inspection method to evaluate e-government sites.
+\newblock In {\em Proceeding of the International Conference on Electronic
+  Government EGOV2005}, In M.A. Wimmer et al. (Eds.), Berlin, Germany.
+  Springer-Verlag.
 
-\bibitem[Mell dan Grance, 2009]{techreport.nist}
-Mell, P. dan Grance, T. (2009).
-\newblock The {NIST} definition of cloud computing.
-\newblock Technical report, National Institute of Standards and Technology,
-  Information Technology Laboratory.
-\newblock [Diakses 17 April 2013].
+\bibitem[Preece et~al., 2002]{buku.preece}
+Preece, J., Rogers, Y., dan Sharp, H. (2002).
+\newblock {\em Interaction Design : Beyond Human-Computer Interaction}.
+\newblock John Wiley \& Sons, Inc.
 
-\bibitem[Mozdzynski, 2012]{ppt.ecmwf}
-Mozdzynski, G. (2012).
-\newblock {Concepts of Parallel Computing}.
+\bibitem[Riduwan, 2008]{buku.riduwan}
+Riduwan (2008).
+\newblock {\em Metode dan Teknik Menyusun Tesis}.
+\newblock CV Alfabeta.
+
+\bibitem[Rohrer, 2014]{article.rohrer}
+Rohrer, C. (2014).
+\newblock When to use which user-experience research methods.
+\newblock \url{http://www.nngroup.com/articles/which-ux-research-methods/}.
+\newblock [Diakses 30 April 2015].
+
+\bibitem[Ross, 2004]{buku.ross}
+Ross, S.~M. (2004).
+\newblock {\em Introduction to Probability and Statistics for Engineers and
+  Scientists Third Edition}.
+\newblock Elsevier Academic Press.
+
+\bibitem[Rubin dan Chisnell, 2008]{buku.rubin}
+Rubin, J. dan Chisnell, D. (2008).
+\newblock {\em Handbook of Usability Testing, Second Edition: How to Plan,
+  Design, and Conduct Effective Tests}.
+\newblock Wiley Publishing, Inc.
+
+\bibitem[Schwab, 2003]{ppt.schwab}
+Schwab, J. (2003).
+\newblock {Assumption of normality}.
 \newblock
-  \url{http://www.ecmwf.int/services/computing/training/material/com_hpcf.html}.
-\newblock [Diakses 20 Maret 2013].
+  \url{http://www.utexas.edu/courses/schwab/sw388r7/SolvingProblems/AssumptionOfNormality.ppt}.
+\newblock [Diakses 2 Mei 2015].
 
-\bibitem[Neal, 2010]{article.rebecca}
-Neal, R. (2010).
-\newblock Cloud computing brings savings in energy, maintenance costs.
+\bibitem[Setiawan, 2012]{article.setiawan}
+Setiawan, N. (2012).
+\newblock Uji normalitas spss.
 \newblock
-  \url{http://www.federaltimes.com/article/20100323/IT03/3230304/Cloud-computing-brings-savings-energy-maintenance-costs}.
-\newblock [Diakses 1 April 2013].
+  \url{http://statistikceria.blogspot.com/2012/12/tutorial-uji-normalitas-dengan-spss.html}.
+\newblock [Diakses 31 April 2015].
 
-\bibitem[Oxford Dictionaries, 2010]{net.oxford}
-Oxford Dictionaries (2010).
-\newblock \url{http://oxforddictionaries.com/definition/english/parallel}.
-\newblock [Diakses 1 April 2013].
+\bibitem[Shier, 2004]{article.shier}
+Shier, R. (2004).
+\newblock Paired t-test.
+\newblock
+  \url{http://www.statstutor.ac.uk/resources/uploaded/paired-t-test.pdf}.
+\newblock [Diakses 17 Mei 2015].
 
-\bibitem[Pressman, 2010]{buku.pressman}
-Pressman, R. (2010).
-\newblock {\em Software engineering: a practitioner's approach}.
-\newblock McGraw-Hill higher education. McGraw-Hill Higher Education.
-
-\bibitem[Treese, 2004]{article.treese}
-Treese, W. (2004).
-\newblock How to build a supercomputer.
-\newblock {\em netWorker}, 8(4):15--18.
+\bibitem[Sugiyono, 2006]{buku.sugiyono}
+Sugiyono (2006).
+\newblock {\em Statistika Untuk Penelitian}.
+\newblock CV Alfabeta.
 
 \end{thebibliography}

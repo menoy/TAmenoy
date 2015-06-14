@@ -1,0 +1,39 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2015.6.5)  5 JUN 2015 14:11
+entering extended mode
+**C:/Users/Aldi*Reinaldi/Documents/GitHub/TAmenoy/bib.bib
+("C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/bib.bib"
+Overfull \hbox (130.38812pt too wide) in paragraph at lines 29--39
+\tenrm isbn=9780073375977, lccn=2008048802, series=McGraw-Hill higher ed-u-ca-t
+ion, url=http://books.google.co.id/books?id=y4k[]AQAAIAAJ,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm i
+.\tenrm s
+.\tenrm b
+.\tenrm n
+.\tenrm =
+.etc.
+
+
+Overfull \hbox (30.0795pt too wide) in paragraph at lines 40--50
+\tenrm ries=Handbook of Us-abil-ity Test-ing, url=http://as.wiley.com/WileyCDA/
+WileyTitle/productCd-0470185481.html,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm r
+.\tenrm i
+.\tenrm e
+.\tenrm s
+.\tenrm =
+.etc.
+
+! Misplaced alignment tab character &.
+l.57 .../books.google.co.id/books?id=EbogAQAAQBAJ&
+                                                  printsec},
+? 
+! Emergency stop.
+l.57 .../books.google.co.id/books?id=EbogAQAAQBAJ&
+                                                  printsec},
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
