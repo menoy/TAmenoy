@@ -24,7 +24,8 @@
 \usepackage{graphicx}
 \usepackage{amsmath}
 \usepackage{multirow}
-
+\usepackage{pdfpages}
+\usepackage{pdflscape}
 % Load konfigurasi khusus untuk laporan yang sedang dibuat
 \input{laporan_setting}
 % Daftar pemenggalan suku kata dan istilah dalam LaTeX
@@ -92,8 +93,7 @@
 \clearpage
 \listoftables
 \clearpage
-\lstlistoflistings
-\clearpage
+
 
 %
 % Gunakan penomeran Arab (1, 2, 3, ...) setelah bagian ini.
@@ -117,6 +117,7 @@
 %\include{pustaka}
 %biblama (bukan biblatex)
 \bibliography{bib}{}
+
 %\bibliography{references}{}
 %biblama (bukan biblatex)
 \bibliographystyle{apalikerd}

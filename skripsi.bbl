@@ -1,5 +1,12 @@
 \begin{thebibliography}{}
 
+\bibitem[Alsos, 2010]{buku.alsos}
+Alsos, O. (2010).
+\newblock A new perspective on ux: The indirect user experience.
+\newblock In Abrahao, S., Law, E., dan Stage, J., editors, {\em Interplay
+  between User Experience and Software Development}, pages 40--42. Ceur-ws.org,
+  Iceland.
+
 \bibitem[Creswell, 2003]{buku.creswell}
 Creswell, J. (2003).
 \newblock {\em Research Design: Qualitative, Quantitative and Mixed Methods
@@ -10,12 +17,19 @@ Creswell, J. (2003).
 Dumas, J. dan Loring, B. (2008).
 \newblock {\em Moderating Usability Tests: Principles and Practices for
   Interacting}.
+\newblock Morgan Kaufmann Publishsers.
 
 \bibitem[Dyahningrum, 2012]{buku.dyahningrum}
 Dyahningrum, S. (2012).
 \newblock {\em Perancangan Strategi dan User Interface Layanan Online Video
   Sharing pada PT. Beoscope Dotkom}.
 \newblock Depok: Fakultas Ilmu Komputer Universitas Indonesia.
+
+\bibitem[Evans dan Yen, 2006]{paper.yen}
+Evans, D. dan Yen, D. (2006).
+\newblock E-government: Evolving relationship of citizens and government,
+  domestic, and international development.
+\newblock In {\em Government Information Quarterly}, pages 207--235.
 
 \bibitem[Field, 2005]{buku.field}
 Field, A. (2005).
@@ -30,21 +44,77 @@ Garcia, A., Maciel, C., dan F.B., P. (2005).
   Government EGOV2005}, In M.A. Wimmer et al. (Eds.), Berlin, Germany.
   Springer-Verlag.
 
+\bibitem[George dan Mallery, 2002]{buku.george}
+George, D. dan Mallery, P. (2002).
+\newblock {\em SPSS for Windows Step by Step: A Simple Guide and Reference,
+  11.0 Update (4th Edition)}.
+\newblock Allyn \& Bacon.
+
+\bibitem[Hasibuan, 2007]{buku.hasibua}
+Hasibuan, Z.~A. (2007).
+\newblock Langkah-langkah strategis dan taktis pengembangan e-government untuk
+  pemda.
+\newblock In {\em Jurnal Sistem Informasi-MTI UI (JSI) Vol. 3}, pages 66--70.
+  Magister Teknologi Informasi Fasilkom, Jakarta, Indonesia.
+
+\bibitem[Mathew et~al., 2011]{paper.mathew}
+Mathew, A., Al~Hajj, A., dan Al~Abri, A. (2011).
+\newblock Human-computer interaction (hci): An overview.
+\newblock In {\em Computer Science and Automation Engineering (CSAE), 2011 IEEE
+  International Conference on}, volume~1, pages 99--100.
+
+\bibitem[Morville, 2004]{article.peter}
+Morville, P. (2004).
+\newblock User experience design.
+\newblock \url{http://semanticstudios.com/user_experience_design/}.
+\newblock [Diakses 31 April 2015].
+
+\bibitem[Nariman, 2001]{paper.dahlan}
+Nariman, D. (2001).
+\newblock E-government websites evaluation using correspondence analysis.
+\newblock In {\em 2010 International Conference on Complex, Inteligent and
+  Software Intensive System}, JSSPP '01, pages 87--102, London, UK, UK.
+  Springer-Verlag.
+
+\bibitem[Nations dan for Public~Administration, 2002]{buku.un}
+Nations, U. dan for Public~Administration, A.~S. (2002).
+\newblock {\em Benchmarking E-government : A Global Perspective}.
+\newblock U.N. Publications.
+
+\bibitem[Newsom, 2013]{ho.newsom}
+Newsom, J.~T. (2013).
+\newblock Levels of measurement and choosing the correct statistical test.
+\newblock \url{http://www.upa.pdx.edu/IOA/newsom/da1/ho_levels.pdf}.
+\newblock [Diakses 12 Juni 2015].
+
+\bibitem[Nielsen, 1995]{article.nielsen}
+Nielsen, J. (1995).
+\newblock 10 usability heuristics for user interface design.
+\newblock \url{http://www.nngroup.com/articles/ten-usability-heuristics/}.
+\newblock [Diakses 29 April 2015].
+
+\bibitem[Nielsen, 2012]{article.5ux}
+Nielsen, J. (2012).
+\newblock Usability 101: Introduction to usability.
+\newblock \url{http://www.usablestats.com/lessons/noir}.
+\newblock [Diakses 31 April 2015].
+
 \bibitem[Preece et~al., 2002]{buku.preece}
 Preece, J., Rogers, Y., dan Sharp, H. (2002).
 \newblock {\em Interaction Design : Beyond Human-Computer Interaction}.
 \newblock John Wiley \& Sons, Inc.
 
+\bibitem[Raharjo, 2014]{article.raharjo}
+Raharjo, S. (2014).
+\newblock Cara melakukan uji reliabilitas alpha cronbach's dengan spss.
+\newblock
+  \url{http://www.spssindonesia.com/2014/01/uji-reliabilitas-alpha-spss.html}.
+\newblock [Diakses 9 Juni 2015].
+
 \bibitem[Riduwan, 2008]{buku.riduwan}
 Riduwan (2008).
 \newblock {\em Metode dan Teknik Menyusun Tesis}.
 \newblock CV Alfabeta.
-
-\bibitem[Rohrer, 2014]{article.rohrer}
-Rohrer, C. (2014).
-\newblock When to use which user-experience research methods.
-\newblock \url{http://www.nngroup.com/articles/which-ux-research-methods/}.
-\newblock [Diakses 30 April 2015].
 
 \bibitem[Ross, 2004]{buku.ross}
 Ross, S.~M. (2004).
@@ -60,7 +130,7 @@ Rubin, J. dan Chisnell, D. (2008).
 
 \bibitem[Schwab, 2003]{ppt.schwab}
 Schwab, J. (2003).
-\newblock {Assumption of normality}.
+\newblock Assumption of normality.
 \newblock
   \url{http://www.utexas.edu/courses/schwab/sw388r7/SolvingProblems/AssumptionOfNormality.ppt}.
 \newblock [Diakses 2 Mei 2015].
@@ -72,12 +142,24 @@ Setiawan, N. (2012).
   \url{http://statistikceria.blogspot.com/2012/12/tutorial-uji-normalitas-dengan-spss.html}.
 \newblock [Diakses 31 April 2015].
 
+\bibitem[Shackel, 1990]{buku.shackel}
+Shackel, B. (1990).
+\newblock Human factors and usability.
+\newblock In Preece, I.~J. dan (eds.), L.~K., editors, {\em HumanComputer
+  Interaction: Selected Readings.}, pages 27--41. Prentice Hall, London.
+
 \bibitem[Shier, 2004]{article.shier}
 Shier, R. (2004).
 \newblock Paired t-test.
 \newblock
   \url{http://www.statstutor.ac.uk/resources/uploaded/paired-t-test.pdf}.
 \newblock [Diakses 17 Mei 2015].
+
+\bibitem[Smith dan Mayes, 1996]{paper.smith}
+Smith, C. dan Mayes, T. (1996).
+\newblock Telematics applications for education and training: Usability guide.
+  comission of the european communities.
+\newblock In {\em DGXIII Project}. DGXIII Project.
 
 \bibitem[Sugiyono, 2006]{buku.sugiyono}
 Sugiyono (2006).

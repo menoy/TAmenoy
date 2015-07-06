@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.12)  14 JUN 2015 09:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.12)  2 JUL 2015 16:32
 entering extended mode
 **skripsi.tex
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.tex"
@@ -572,6 +572,12 @@ LaTeX Info: Redefining \] on input line 2666.
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.aux"
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\sampul.aux")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\judul_dalam.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\orisinal.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\pengesahan_sidang.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\pengantar.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\persetujuan_publikasi.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\abstrak.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\abstract.aux")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab1-pendahuluan.aux")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab2-tinjauan-pustaka.aux")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab3-metodologi-penelitian.au
@@ -579,30 +585,45 @@ x")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab4-analisis-dan-pembahasan.
 aux"
 
-LaTeX Warning: Label `tab:descgq' multiply defined.
+LaTeX Warning: Label `tab:perbaikan' multiply defined.
 
-))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 39.
-LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 39
+
+LaTeX Warning: Label `tab:perbaikan' multiply defined.
+
+)
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab5-prototyping-dan-evaluasi
+.aux"
+
+LaTeX Warning: Label `tab:strategi' multiply defined.
+
+
+LaTeX Warning: Label `tab:strategi' multiply defined.
+
+) ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab6-penutup.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\markLampiran.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\lampiran.aux"))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 40.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 40
 .
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omspzccm.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omspzccm.fd"
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 \AtBeginShipoutBox=\box42
-Package hyperref Info: Link coloring OFF on input line 39.
+Package hyperref Info: Link coloring OFF on input line 40.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -612,9 +633,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count141
 )
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 40.
+LaTeX Info: Redefining \pageref on input line 40.
+LaTeX Info: Redefining \nameref on input line 40.
 
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.out")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.out")
@@ -679,7 +700,7 @@ Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count148
 
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\sampul.tex"
-<pics/makara.png, id=255, 154.86429pt x 154.34807pt>
+<pics/makara.png, id=304, 154.86429pt x 154.34807pt>
 File: pics/makara.png Graphic file (type png)
  <use pics/makara.png>
 Package pdftex.def Info: pics/makara.png used on input line 14.
@@ -706,38 +727,145 @@ Package pdftex.def Info: pics/makara.png used on input line 12.
 
 
 ])
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\orisinal.tex"
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 89.
-
-("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.toc"
-LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 7.
-
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 8.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 17
+.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptmcm.fd"
 File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 7.
-
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 17
+.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlptmcm.fd"
 File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+psycm on input line 7.
-
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 17
+.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxpsycm.fd"
 File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
  [2
 
 
+
 ])
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\pengesahan_sidang.tex"
+Overfull \hbox (14.74275pt too wide) in paragraph at lines 13--21
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--45
+
+ []
+
+[3
+
+
+
+])
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 72.
+
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\pengantar.tex" [4
+
+
+
+])
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 73.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 73.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 8.99994pt on input line 73.
+[5] ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\persetujuan_publikasi.tex
+"
+Underfull \hbox (badness 10000) in paragraph at lines 30--36
+
+ []
+
+[6
+
+
+
+]) ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\abstrak.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 12--17
+
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 20--23
+\T1/ptm/m/n/12 Perkembangan teknologi in-ter-net di dunia men-dukung lahirnya p
+e-man-faatan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+[7
+
+
+
+]) ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\abstract.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 12--17
+
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 20--22
+\T1/ptm/m/n/12 Internet's tech-nol-ogy de-vel-op-ment in the world has sup-port
+ the birth of e-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+[8
+
+
+
+]) ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.toc" [9
+
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10])
 \tf@toc=\write5
 
 
@@ -746,15 +874,9 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 90.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 90.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.99994pt on input line 90.
-[3] ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.lof")
+[11] ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.lof")
 \tf@lof=\write6
- [4
+ [12
 
 
 ]
@@ -764,93 +886,94 @@ Underfull \hbox (badness 2564) in paragraph at lines 3--3
 tm/m/n/12 ter-hadap kom-po-nen \T1/ptm/m/it/12 usa-bi-lity 
  []
 
-)
+[13
+
+
+])
 \tf@lot=\write7
- [5
 
 
-] ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.lol")
-\tf@lol=\write8
- [6
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-
-]
-("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab1-pendahuluan.tex"
+[14] ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab1-pendahuluan.tex"
 BAB 1.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--20
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[][][]$\T1/ptm/m/n/10 http : / / unpan3 . un . org / egovkb / Portals / egovkb 
+/ Documents / un / 2012-[]Survey /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--24
 
  []
 
 
-Underfull \hbox (badness 1946) in paragraph at lines 10--20
+Underfull \hbox (badness 1946) in paragraph at lines 10--24
 \T1/ptm/m/n/12 Perkembangan teknologi in-for-masi dan ko-mu-nikasi akan mem-buk
 a pelu-ang
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 10--20
+Underfull \hbox (badness 1205) in paragraph at lines 10--24
 \T1/ptm/m/n/12 dan tan-ta-n-gan un-tuk men-cip-takan, men-gak-ses, men-go-lah d
 an me-man-faatkan
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--20
+Underfull \hbox (badness 10000) in paragraph at lines 10--24
 
  []
 
 
-Underfull \hbox (badness 3601) in paragraph at lines 10--20
-\T1/ptm/m/n/12 Penyediaan in-for-masi ten-tunya tidak hanya di-lakukan oleh ora
-ng ter-tentu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--20
-
- []
-
-
-Underfull \hbox (badness 1953) in paragraph at lines 10--20
+Underfull \hbox (badness 1953) in paragraph at lines 10--24
 \T1/ptm/m/n/12 Bersama de-ngan perkem-ban-gan in-for-masi, masyarakat me-nun-tu
 t pe-me-rin-tah
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--20
+Underfull \hbox (badness 10000) in paragraph at lines 10--24
 
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 10--20
-\T1/ptm/m/n/12 Penggunaan \T1/ptm/m/it/12 web-site \T1/ptm/m/n/12 dari di-rek-t
-orat jen-deral pa-jak ini sa-ngat pen-ting dalam
+Underfull \hbox (badness 10000) in paragraph at lines 10--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--24
+
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.20 \section
+l.24 \section
              {Perumusan Masalah} [1
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 27--31
-
- []
-
-
-Underfull \hbox (badness 1253) in paragraph at lines 35--36
-[]\T1/ptm/m/n/12 Mengembangkan \T1/ptm/m/it/12 pro-to-type \T1/ptm/m/n/12 se-ba
--gai ben-tuk ma-sukkan un-tuk \T1/ptm/m/it/12 web-site e-
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
@@ -858,9 +981,14 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
-Underfull \hbox (badness 1902) in paragraph at lines 50--52
-\T1/ptm/m/n/12 Bab ini men-je-laskan me-nge-nai metodologi peneli-tian yang di-
-lakukan,
+Underfull \hbox (badness 10000) in paragraph at lines 35--39
+
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 42--43
+[]\T1/ptm/m/n/12 Mengembangkan \T1/ptm/m/it/12 high-fidelity pro-to-type \T1/pt
+m/m/n/12 dari hasil pen-er-a-pan in-stru-men
  []
 
 
@@ -869,7 +997,13 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3])
+[3]
+Underfull \hbox (badness 1902) in paragraph at lines 64--66
+\T1/ptm/m/n/12 Bab ini men-je-laskan me-nge-nai metodologi peneli-tian yang di-
+lakukan,
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
@@ -886,8 +1020,20 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 9.
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--18
+Underfull \hbox (badness 1616) in paragraph at lines 13--19
+\T1/ptm/m/it/12 Usability \T1/ptm/m/n/12 adalah kua-li-tas yang men-jadi pe-ni-
+la-ian bagaimana su-atu tampi-lan
+ []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--19
+
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 13--19
+[]\T1/ptm/m/n/12 Nielsen[] ([]2012[]) menge-mukakan bahwa ter-da-pat 5 kom-po-n
+en utama terkait
  []
 
 [5
@@ -895,20 +1041,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--18
 
 
 ]
-Underfull \hbox (badness 1616) in paragraph at lines 28--33
-\T1/ptm/m/it/12 Usability \T1/ptm/m/n/12 adalah kua-li-tas yang men-jadi pe-ni-
-la-ian bagaimana su-atu tampi-lan
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--33
+Underfull \hbox (badness 10000) in paragraph at lines 33--38
 
  []
 
 
-Underfull \hbox (badness 3536) in paragraph at lines 28--33
-\T1/ptm/m/n/12 menge-mukakan bahwa ter-da-pat 5 kom-po-nen utama terkait usa-bi
--lity yang
+Underfull \hbox (badness 1515) in paragraph at lines 33--38
+[]\T1/ptm/m/n/12 Morville[] ([]2004[]) men-je-laskan dalam ar-tikel yang berjud
+ul "User Ex-pe-ri-ence
  []
 
 
@@ -918,7 +1058,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [6]
-Underfull \hbox (badness 1331) in paragraph at lines 51--53
+Underfull \hbox (badness 1331) in paragraph at lines 52--54
 \T1/ptm/m/it/12 Match be-tween sys-tem and the real world \T1/ptm/m/n/12 men-je
 -laskan bahwa sis-tem
  []
@@ -937,7 +1077,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 72--75
+Underfull \hbox (badness 10000) in paragraph at lines 73--77
 
  []
 
@@ -948,15 +1088,43 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [9]
-Underfull \hbox (badness 2073) in paragraph at lines 93--94
-\T1/ptm/m/n/12 tung akan in-for-masi yang dise-di-akan. Tam-ba-han lain-nya, in
--for-masi
+Underfull \hbox (badness 10000) in paragraph at lines 82--86
+
  []
 
 
-Underfull \hbox (badness 2065) in paragraph at lines 95--96
-\T1/ptm/m/n/12 masyarakat, hal ini fun-da-men-tal un-tuk men-cip-takan keper-ca
-yaan dari
+Underfull \hbox (badness 2903) in paragraph at lines 82--86
+\T1/ptm/m/n/12 Pengukuran \T1/ptm/m/it/12 usa-bi-lity test-ing \T1/ptm/m/n/12 d
+i-lakukan de-ngan men-gu-jikan sis-tem per-tama
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 82--86
+\T1/ptm/m/n/12 kali kepada re-spon-den, se-hingga diper-oleh pe-ni-la-ian penga
+m-la-man per-tama
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 88--90
+\T1/ptm/m/n/12 Pengukuran di-lakukan de-ngan mem-berikan per-tanyaan terkait ke
+puasan
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 90--92
+\T1/ptm/m/it/12 bi-lity heuris-tic\T1/ptm/m/n/12 . Ni-lai yang di-hasilkan ter-
+gan-tung dari re-spon-den saat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--106
+
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 102--106
+\T1/ptm/m/it/12 E-government \T1/ptm/m/n/12 memi-liki tu-gas dasar un-tuk mem-b
+erikan layanan in-for-masi
  []
 
 
@@ -967,16 +1135,34 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 [10]
 
-LaTeX Warning: Reference `tab:mapgov' on page 11 undefined on input line 98.
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-<pics/mappinggq.PNG, id=635, 502.12593pt x 345.54094pt>
+[11]
+Underfull \hbox (badness 2073) in paragraph at lines 123--124
+\T1/ptm/m/n/12 tung akan in-for-masi yang dise-di-akan. Tam-ba-han lain-nya, in
+-for-masi
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 125--126
+\T1/ptm/m/n/12 masyarakat, hal ini fun-da-men-tal un-tuk men-cip-takan keper-ca
+yaan dari
+ []
+
+
+LaTeX Warning: Reference `tab:mapgov' on page 12 undefined on input line 128.
+
+<pics/mappinggq.PNG, id=897, 502.12593pt x 345.54094pt>
 File: pics/mappinggq.PNG Graphic file (type png)
 
 <use pics/mappinggq.PNG>
-Package pdftex.def Info: pics/mappinggq.PNG used on input line 105.
+Package pdftex.def Info: pics/mappinggq.PNG used on input line 135.
 (pdftex.def)             Requested size: 398.3386pt x 274.1343pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 103--107
+Overfull \hbox (12.0pt too wide) in paragraph at lines 133--137
  [][] 
  []
 
@@ -986,50 +1172,59 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/mappinggq.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 117--120
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 146--149
 
  []
 
-<pics/storyboard.PNG, id=650, 377.91188pt x 319.1925pt>
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[13 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/mappinggq.PNG>]
+<pics/storyboard.PNG, id=925, 377.91188pt x 319.1925pt>
 File: pics/storyboard.PNG Graphic file (type png)
 
 <use pics/storyboard.PNG>
-Package pdftex.def Info: pics/storyboard.PNG used on input line 124.
-(pdftex.def)             Requested size: 398.3386pt x 336.44781pt.
+Package pdftex.def Info: pics/storyboard.PNG used on input line 153.
+(pdftex.def)             Requested size: 318.67209pt x 269.15727pt.
 
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[12]
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 129.
-
-
-Package natbib Warning: Citation `buku' on page 13 undefined on input line 129.
-
-
-
-Package natbib Warning: Citation `preece' on page 13 undefined on input line 12
-9.
-
-<pics/simplesketch.PNG, id=657, 485.56406pt x 200.24812pt>
+<pics/simplesketch.PNG, id=929, 485.56406pt x 200.24812pt>
 File: pics/simplesketch.PNG Graphic file (type png)
 
 <use pics/simplesketch.PNG>
-Package pdftex.def Info: pics/simplesketch.PNG used on input line 135.
+Package pdftex.def Info: pics/simplesketch.PNG used on input line 164.
 (pdftex.def)             Requested size: 398.3386pt x 164.2748pt.
 
 
-Package natbib Warning: Citation `buku' on page 13 undefined on input line 140.
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/storyboard.PNG>]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[15 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/simplesketch.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 179--183
+
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 184--188
 
-Package natbib Warning: Citation `preece' on page 13 undefined on input line 14
-0.
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 189--108
+
+ []
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1037,15 +1232,14 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/storyboard.PNG> <C:/U
-sers/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/simplesketch.PNG>])
+[16]
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14]
+[17]
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab3-metodologi-penelitian.te
 x"
 BAB 3.
@@ -1053,7 +1247,7 @@ BAB 3.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-[15
+[18
 
 
 
@@ -1064,7 +1258,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[16]
+[19]
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 37.
 
@@ -1085,7 +1279,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[17]
+[20]
 Underfull \hbox (badness 10000) in paragraph at lines 69--73
 
  []
@@ -1102,33 +1296,12 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[18]
-Underfull \hbox (badness 1168) in paragraph at lines 109--109
+[21]
+Underfull \hbox (badness 1168) in paragraph at lines 108--108
 []|\T1/ptm/m/n/12 Informasi tam-ba-han (fi-tur help/-FAQ) mem-buat saya mengert
 i
  []
 
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[19]
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[20]
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[21]
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
@@ -1144,25 +1317,39 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 [23]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package natbib Warning: Citation `paper.jason' on page 24 undefined on input li
-ne 243.
-
-
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 246--249
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[26]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 241--244
 
  []
 
 
-Underfull \hbox (badness 1406) in paragraph at lines 246--249
+Underfull \hbox (badness 1406) in paragraph at lines 241--244
 \T1/ptm/m/n/12 Suatu be-saran statis-tik yang me-nun-jukan kemiringan data dise
 -but \T1/ptm/m/it/12 skew-ness\T1/ptm/m/n/12 ,
  []
@@ -1173,18 +1360,18 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[25] <pics/histogram-normal.png, id=789, 428.35031pt x 278.54062pt>
+[28] <pics/histogram-normal.png, id=1087, 428.35031pt x 278.54062pt>
 File: pics/histogram-normal.png Graphic file (type png)
 
 <use pics/histogram-normal.png>
-Package pdftex.def Info: pics/histogram-normal.png used on input line 263.
+Package pdftex.def Info: pics/histogram-normal.png used on input line 258.
 (pdftex.def)             Requested size: 179.25114pt x 116.56123pt.
 
-<pics/normal-distribution.png, id=790, 395.22656pt x 192.72pt>
+<pics/normal-distribution.png, id=1088, 395.22656pt x 192.72pt>
 File: pics/normal-distribution.png Graphic file (type png)
 
 <use pics/normal-distribution.png>
-Package pdftex.def Info: pics/normal-distribution.png used on input line 270.
+Package pdftex.def Info: pics/normal-distribution.png used on input line 265.
 (pdftex.def)             Requested size: 179.25114pt x 87.40543pt.
 
 
@@ -1193,7 +1380,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[26 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/histogram-normal.png>
+[29 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/histogram-normal.png>
  <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/normal-distribution.png>
 ]
 
@@ -1202,14 +1389,14 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[27])
+[30])
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[28]
+[31]
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab4-analisis-dan-pembahasan.
 tex"
 BAB 4.
@@ -1217,32 +1404,32 @@ BAB 4.
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 2.
 
-<pics/jenisKelamin.PNG, id=830, 436.63126pt x 255.20343pt>
+<pics/jenisKelamin.PNG, id=1130, 436.63126pt x 255.20343pt>
 File: pics/jenisKelamin.PNG Graphic file (type png)
 
 <use pics/jenisKelamin.PNG>
 Package pdftex.def Info: pics/jenisKelamin.PNG used on input line 11.
 (pdftex.def)             Requested size: 358.50632pt x 207.14978pt.
 
-<pics/pekerjaan.PNG, id=833, 436.63126pt x 258.21469pt>
+<pics/pekerjaan.PNG, id=1133, 436.63126pt x 258.21469pt>
 File: pics/pekerjaan.PNG Graphic file (type png)
 
 <use pics/pekerjaan.PNG>
 Package pdftex.def Info: pics/pekerjaan.PNG used on input line 20.
 (pdftex.def)             Requested size: 358.50632pt x 207.14333pt.
- [29
+ [32
 
 
 
  <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/jenisKelamin.PNG>]
-<pics/rentangUsia.PNG, id=839, 438.13687pt x 258.21469pt>
+<pics/rentangUsia.PNG, id=1139, 438.13687pt x 258.21469pt>
 File: pics/rentangUsia.PNG Graphic file (type png)
 
 <use pics/rentangUsia.PNG>
 Package pdftex.def Info: pics/rentangUsia.PNG used on input line 27.
 (pdftex.def)             Requested size: 358.50572pt x 207.14333pt.
 
-<pics/lamakomputer.PNG, id=841, 441.14813pt x 258.21469pt>
+<pics/lamakomputer.PNG, id=1141, 441.14813pt x 258.21469pt>
 File: pics/lamakomputer.PNG Graphic file (type png)
 
 <use pics/lamakomputer.PNG>
@@ -1255,23 +1442,23 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[30 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/pekerjaan.PNG> <C:/Us
+[33 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/pekerjaan.PNG> <C:/Us
 ers/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rentangUsia.PNG>]
-<pics/pengalamanInternet.PNG, id=850, 437.38406pt x 257.46187pt>
+<pics/pengalamanInternet.PNG, id=1149, 437.38406pt x 257.46187pt>
 File: pics/pengalamanInternet.PNG Graphic file (type png)
 
 <use pics/pengalamanInternet.PNG>
 Package pdftex.def Info: pics/pengalamanInternet.PNG used on input line 45.
 (pdftex.def)             Requested size: 358.50374pt x 207.14047pt.
 
-<pics/pakeInternetperhari.PNG, id=852, 441.14813pt x 258.21469pt>
+<pics/pakeInternetperhari.PNG, id=1151, 441.14813pt x 258.21469pt>
 File: pics/pakeInternetperhari.PNG Graphic file (type png)
 
 <use pics/pakeInternetperhari.PNG>
 Package pdftex.def Info: pics/pakeInternetperhari.PNG used on input line 54.
 (pdftex.def)             Requested size: 358.51947pt x 207.14333pt.
 
-<pics/webfavorit.PNG, id=853, 438.8897pt x 258.21469pt>
+<pics/webfavorit.PNG, id=1152, 438.8897pt x 258.21469pt>
 File: pics/webfavorit.PNG Graphic file (type png)
 
 <use pics/webfavorit.PNG>
@@ -1284,9 +1471,9 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[31 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/lamakomputer.PNG> <C:
+[34 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/lamakomputer.PNG> <C:
 /Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/pengalamanInternet.PNG>]
-<pics/keperluanAkses.PNG, id=862, 438.13687pt x 259.7203pt>
+<pics/keperluanAkses.PNG, id=1162, 438.13687pt x 259.7203pt>
 File: pics/keperluanAkses.PNG Graphic file (type png)
 
 <use pics/keperluanAkses.PNG>
@@ -1299,7 +1486,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[32 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/pakeInternetperhari.P
+[35 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/pakeInternetperhari.P
 NG> <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/webfavorit.PNG>]
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1307,8 +1494,8 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[33 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/keperluanAkses.PNG>]
-<pics/validitasUsabilityHeuristic.PNG, id=877, 505.13719pt x 443.40656pt>
+[36 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/keperluanAkses.PNG>]
+<pics/validitasUsabilityHeuristic.PNG, id=1177, 505.13719pt x 443.40656pt>
 File: pics/validitasUsabilityHeuristic.PNG Graphic file (type png)
 
 <use pics/validitasUsabilityHeuristic.PNG>
@@ -1320,7 +1507,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 90--94
  [][] 
  []
 
-<pics/validitasKepuasanPengguna.PNG, id=880, 506.6428pt x 146.79843pt>
+<pics/validitasKepuasanPengguna.PNG, id=1180, 506.6428pt x 146.79843pt>
 File: pics/validitasKepuasanPengguna.PNG Graphic file (type png)
 
 <use pics/validitasKepuasanPengguna.PNG>
@@ -1343,25 +1530,17 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[34 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/validitasUsabilityHeu
-ristic.PNG>] <pics/validitasGQuality.PNG, id=887, 504.38437pt x 199.49532pt>
+[37 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/validitasUsabilityHeu
+ristic.PNG>] <pics/validitasGQuality.PNG, id=1187, 504.38437pt x 199.49532pt>
 File: pics/validitasGQuality.PNG Graphic file (type png)
 
 <use pics/validitasGQuality.PNG>
-Package pdftex.def Info: pics/validitasGQuality.PNG used on input line 114.
+Package pdftex.def Info: pics/validitasGQuality.PNG used on input line 115.
 (pdftex.def)             Requested size: 398.3386pt x 157.5539pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 112--116
+Overfull \hbox (12.0pt too wide) in paragraph at lines 113--117
  [][] 
  []
-
-
-LaTeX Warning: Reference `tab:cronalpha' on page 35 undefined on input line 119
-.
-
-
-Package natbib Warning: Citation `buku.george' on page 35 undefined on input li
-ne 133.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -1369,21 +1548,16 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[35 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/validitasKepuasanPeng
+[38 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/validitasKepuasanPeng
 guna.PNG> <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/validitasGQuali
-ty.PNG>]
-
-LaTeX Warning: Reference `tab:hasilconalp' on page 36 undefined on input line 1
-36.
-
-<pics/ordinalDescUH.PNG, id=896, 409.53pt x 493.0922pt>
+ty.PNG>] <pics/ordinalDescUH.PNG, id=1209, 409.53pt x 493.0922pt>
 File: pics/ordinalDescUH.PNG Graphic file (type png)
 
 <use pics/ordinalDescUH.PNG>
-Package pdftex.def Info: pics/ordinalDescUH.PNG used on input line 166.
+Package pdftex.def Info: pics/ordinalDescUH.PNG used on input line 169.
 (pdftex.def)             Requested size: 398.3386pt x 479.64565pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 164--168
+Overfull \hbox (12.0pt too wide) in paragraph at lines 167--171
  [][] 
  []
 
@@ -1393,14 +1567,14 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[36] <pics/ordinalT-testUH.PNG, id=903, 525.46312pt x 132.495pt>
+[39] <pics/ordinalT-testUH.PNG, id=1215, 525.46312pt x 132.495pt>
 File: pics/ordinalT-testUH.PNG Graphic file (type png)
 
 <use pics/ordinalT-testUH.PNG>
-Package pdftex.def Info: pics/ordinalT-testUH.PNG used on input line 177.
+Package pdftex.def Info: pics/ordinalT-testUH.PNG used on input line 180.
 (pdftex.def)             Requested size: 398.3386pt x 100.44452pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 175--179
+Overfull \hbox (12.0pt too wide) in paragraph at lines 178--182
  [][] 
  []
 
@@ -1410,12 +1584,12 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[37 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/ordinalDescUH.PNG>]
-<pics/historata2uh.PNG, id=911, 467.49657pt x 272.51813pt>
+[40 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/ordinalDescUH.PNG>]
+<pics/historata2uh.PNG, id=1224, 467.49657pt x 272.51813pt>
 File: pics/historata2uh.PNG Graphic file (type png)
 
 <use pics/historata2uh.PNG>
-Package pdftex.def Info: pics/historata2uh.PNG used on input line 209.
+Package pdftex.def Info: pics/historata2uh.PNG used on input line 212.
 (pdftex.def)             Requested size: 398.3386pt x 232.21533pt.
 
 
@@ -1424,16 +1598,16 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[38 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/ordinalT-testUH.PNG> 
+[41 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/ordinalT-testUH.PNG> 
 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/historata2uh.PNG>]
-<pics/ordinaldescSAT.PNG, id=922, 414.79968pt x 490.83376pt>
+<pics/ordinaldescSAT.PNG, id=1235, 414.79968pt x 490.83376pt>
 File: pics/ordinaldescSAT.PNG Graphic file (type png)
 
 <use pics/ordinaldescSAT.PNG>
-Package pdftex.def Info: pics/ordinaldescSAT.PNG used on input line 236.
+Package pdftex.def Info: pics/ordinaldescSAT.PNG used on input line 239.
 (pdftex.def)             Requested size: 398.3386pt x 471.3748pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 234--238
+Overfull \hbox (12.0pt too wide) in paragraph at lines 237--241
  [][] 
  []
 
@@ -1443,14 +1617,14 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[39] <pics/ordinalT-testSAT.PNG, id=928, 523.9575pt x 135.50626pt>
+[42] <pics/ordinalT-testSAT.PNG, id=1241, 523.9575pt x 135.50626pt>
 File: pics/ordinalT-testSAT.PNG Graphic file (type png)
 
 <use pics/ordinalT-testSAT.PNG>
-Package pdftex.def Info: pics/ordinalT-testSAT.PNG used on input line 247.
+Package pdftex.def Info: pics/ordinalT-testSAT.PNG used on input line 250.
 (pdftex.def)             Requested size: 398.3386pt x 103.02095pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 245--249
+Overfull \hbox (12.0pt too wide) in paragraph at lines 248--252
  [][] 
  []
 
@@ -1460,15 +1634,15 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[40 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/ordinaldescSAT.PNG>]
-<pics/ordinaldescGQ.PNG, id=936, 409.53pt x 491.58656pt>
+[43 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/ordinaldescSAT.PNG>]
+<pics/ordinaldescGQ.PNG, id=1249, 409.53pt x 491.58656pt>
 File: pics/ordinaldescGQ.PNG Graphic file (type png)
 
 <use pics/ordinaldescGQ.PNG>
-Package pdftex.def Info: pics/ordinaldescGQ.PNG used on input line 260.
+Package pdftex.def Info: pics/ordinaldescGQ.PNG used on input line 263.
 (pdftex.def)             Requested size: 398.3386pt x 478.18106pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 258--262
+Overfull \hbox (12.0pt too wide) in paragraph at lines 261--265
  [][] 
  []
 
@@ -1478,15 +1652,15 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[41 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/ordinalT-testSAT.PNG>
-] <pics/ordinalT-testGQ.PNG, id=943, 520.19344pt x 130.98938pt>
+[44 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/ordinalT-testSAT.PNG>
+] <pics/ordinalT-testGQ.PNG, id=1256, 520.19344pt x 130.98938pt>
 File: pics/ordinalT-testGQ.PNG Graphic file (type png)
 
 <use pics/ordinalT-testGQ.PNG>
-Package pdftex.def Info: pics/ordinalT-testGQ.PNG used on input line 271.
+Package pdftex.def Info: pics/ordinalT-testGQ.PNG used on input line 274.
 (pdftex.def)             Requested size: 398.3386pt x 100.30447pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 269--273
+Overfull \hbox (12.0pt too wide) in paragraph at lines 272--276
  [][] 
  []
 
@@ -1496,12 +1670,12 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[42 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/ordinaldescGQ.PNG>]
-<pics/historata2gq.PNG, id=952, 466.74374pt x 271.0125pt>
+[45 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/ordinaldescGQ.PNG>]
+<pics/historata2gq.PNG, id=1264, 466.74374pt x 271.0125pt>
 File: pics/historata2gq.PNG Graphic file (type png)
 
 <use pics/historata2gq.PNG>
-Package pdftex.def Info: pics/historata2gq.PNG used on input line 298.
+Package pdftex.def Info: pics/historata2gq.PNG used on input line 301.
 (pdftex.def)             Requested size: 398.3386pt x 231.30455pt.
 
 
@@ -1510,24 +1684,20 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[43 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/ordinalT-testGQ.PNG> 
+[46 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/ordinalT-testGQ.PNG> 
 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/historata2gq.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 304--315
+Underfull \hbox (badness 10000) in paragraph at lines 307--318
 
  []
 
-
-LaTeX Warning: Reference `subbab:usability' on page 44 undefined on input line 
-316.
-
-<pics/waktudesc.PNG, id=963, 438.13687pt x 488.57532pt>
+<pics/waktudesc.PNG, id=1277, 438.13687pt x 488.57532pt>
 File: pics/waktudesc.PNG Graphic file (type png)
 
 <use pics/waktudesc.PNG>
-Package pdftex.def Info: pics/waktudesc.PNG used on input line 323.
+Package pdftex.def Info: pics/waktudesc.PNG used on input line 326.
 (pdftex.def)             Requested size: 398.3386pt x 444.20166pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 321--325
+Overfull \hbox (12.0pt too wide) in paragraph at lines 324--328
  [][] 
  []
 
@@ -1537,14 +1707,14 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[44] <pics/waktuSelesaiT-test.PNG, id=969, 522.45187pt x 131.74219pt>
+[47] <pics/waktuSelesaiT-test.PNG, id=1283, 522.45187pt x 131.74219pt>
 File: pics/waktuSelesaiT-test.PNG Graphic file (type png)
 
 <use pics/waktuSelesaiT-test.PNG>
-Package pdftex.def Info: pics/waktuSelesaiT-test.PNG used on input line 334.
+Package pdftex.def Info: pics/waktuSelesaiT-test.PNG used on input line 337.
 (pdftex.def)             Requested size: 398.3386pt x 100.44672pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 332--336
+Overfull \hbox (12.0pt too wide) in paragraph at lines 335--339
  [][] 
  []
 
@@ -1554,15 +1724,15 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[45 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/waktudesc.PNG>]
-<pics/tugasselesaidesc.PNG, id=977, 413.29407pt x 493.0922pt>
+[48 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/waktudesc.PNG>]
+<pics/tugasselesaidesc.PNG, id=1291, 413.29407pt x 493.0922pt>
 File: pics/tugasselesaidesc.PNG Graphic file (type png)
 
 <use pics/tugasselesaidesc.PNG>
-Package pdftex.def Info: pics/tugasselesaidesc.PNG used on input line 346.
+Package pdftex.def Info: pics/tugasselesaidesc.PNG used on input line 349.
 (pdftex.def)             Requested size: 398.3386pt x 475.25917pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 344--348
+Overfull \hbox (12.0pt too wide) in paragraph at lines 347--351
  [][] 
  []
 
@@ -1572,23 +1742,23 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[46 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/waktuSelesaiT-test.PN
-G>] <pics/rankSelesai.PNG, id=984, 397.485pt x 167.12437pt>
+[49 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/waktuSelesaiT-test.PN
+G>] <pics/rankSelesai.PNG, id=1298, 397.485pt x 167.12437pt>
 File: pics/rankSelesai.PNG Graphic file (type png)
 
 <use pics/rankSelesai.PNG>
-Package pdftex.def Info: pics/rankSelesai.PNG used on input line 356.
+Package pdftex.def Info: pics/rankSelesai.PNG used on input line 359.
 (pdftex.def)             Requested size: 398.3386pt x 167.4886pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 354--358
+Overfull \hbox (12.0pt too wide) in paragraph at lines 357--361
  [][] 
  []
 
-<pics/selesaiWilcoxon.PNG, id=985, 199.49532pt x 127.97812pt>
+<pics/selesaiWilcoxon.PNG, id=1299, 199.49532pt x 127.97812pt>
 File: pics/selesaiWilcoxon.PNG Graphic file (type png)
 
 <use pics/selesaiWilcoxon.PNG>
-Package pdftex.def Info: pics/selesaiWilcoxon.PNG used on input line 365.
+Package pdftex.def Info: pics/selesaiWilcoxon.PNG used on input line 368.
 (pdftex.def)             Requested size: 199.1693pt x 127.7747pt.
 
 
@@ -1597,15 +1767,15 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[47 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/tugasselesaidesc.PNG>
-] <pics/tugasgagaldesc.PNG, id=993, 407.27156pt x 487.8225pt>
+[50 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/tugasselesaidesc.PNG>
+] <pics/tugasgagaldesc.PNG, id=1307, 407.27156pt x 487.8225pt>
 File: pics/tugasgagaldesc.PNG Graphic file (type png)
 
 <use pics/tugasgagaldesc.PNG>
-Package pdftex.def Info: pics/tugasgagaldesc.PNG used on input line 377.
+Package pdftex.def Info: pics/tugasgagaldesc.PNG used on input line 380.
 (pdftex.def)             Requested size: 398.3386pt x 477.13979pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 375--379
+Overfull \hbox (12.0pt too wide) in paragraph at lines 378--382
  [][] 
  []
 
@@ -1615,16 +1785,16 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[48 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rankSelesai.PNG> <C:/
+[51 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rankSelesai.PNG> <C:/
 Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/selesaiWilcoxon.PNG>]
-<pics/rankGagal.PNG, id=1002, 401.24907pt x 164.86594pt>
+<pics/rankGagal.PNG, id=1315, 401.24907pt x 164.86594pt>
 File: pics/rankGagal.PNG Graphic file (type png)
 
 <use pics/rankGagal.PNG>
-Package pdftex.def Info: pics/rankGagal.PNG used on input line 388.
+Package pdftex.def Info: pics/rankGagal.PNG used on input line 391.
 (pdftex.def)             Requested size: 398.3386pt x 163.68063pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 386--390
+Overfull \hbox (12.0pt too wide) in paragraph at lines 389--393
  [][] 
  []
 
@@ -1634,12 +1804,12 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[49 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/tugasgagaldesc.PNG>]
-<pics/gagalWilcoxon.PNG, id=1008, 199.49532pt x 129.48375pt>
+[52 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/tugasgagaldesc.PNG>]
+<pics/gagalWilcoxon.PNG, id=1322, 199.49532pt x 129.48375pt>
 File: pics/gagalWilcoxon.PNG Graphic file (type png)
 
 <use pics/gagalWilcoxon.PNG>
-Package pdftex.def Info: pics/gagalWilcoxon.PNG used on input line 397.
+Package pdftex.def Info: pics/gagalWilcoxon.PNG used on input line 400.
 (pdftex.def)             Requested size: 199.1693pt x 129.27792pt.
 
 
@@ -1648,13 +1818,13 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[50 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rankGagal.PNG> <C:/Us
+[53 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rankGagal.PNG> <C:/Us
 ers/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/gagalWilcoxon.PNG>]
-<pics/preferensipengguna.PNG, id=1017, 484.05844pt x 284.56313pt>
+<pics/preferensipengguna.PNG, id=1331, 484.05844pt x 284.56313pt>
 File: pics/preferensipengguna.PNG Graphic file (type png)
 
 <use pics/preferensipengguna.PNG>
-Package pdftex.def Info: pics/preferensipengguna.PNG used on input line 420.
+Package pdftex.def Info: pics/preferensipengguna.PNG used on input line 423.
 (pdftex.def)             Requested size: 398.3386pt x 234.18129pt.
 
 
@@ -1663,30 +1833,717 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[51 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/preferensipengguna.PN
+[54 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/preferensipengguna.PN
 G>]
-Underfull \hbox (badness 10000) in paragraph at lines 430--431
 
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[55]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[56]
+Overfull \hbox (3.43759pt too wide) in paragraph at lines 496--496
+[]|\T1/ptm/b/n/12 No.| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
-
+Overfull \hbox (1.63031pt too wide) in alignment at lines 492--496
+ [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
-
+Underfull \hbox (badness 10000) in paragraph at lines 497--497
+[]|\T1/ptm/m/n/12 Perbaikan ha-la-man
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 433--434
-
+Underfull \hbox (badness 2401) in paragraph at lines 497--497
+\T1/ptm/m/it/12 home-page \T1/ptm/m/n/12 dari web-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 434--435
+Underfull \hbox (badness 10000) in paragraph at lines 497--497
+\T1/ptm/m/n/12 site DJP In-done-sia
+ []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--497
+\T1/ptm/m/n/12 de-ngan cara meng-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--497
+\T1/ptm/m/n/12 gabungkan ulang
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--497
+\T1/ptm/m/n/12 menu dan de-sain
+ []
+
+
+Underfull \hbox (badness 6927) in paragraph at lines 497--497
+[]|\T1/ptm/m/it/12 Aesthetic and min-i-
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 497--497
+\T1/ptm/m/it/12 mal-ist de-sign, match
+ []
+
+
+Underfull \hbox (badness 4492) in paragraph at lines 497--497
+\T1/ptm/m/it/12 be-tween sys-tem and
+ []
+
+
+Underfull \hbox (badness 3612) in paragraph at lines 497--497
+\T1/ptm/m/it/12 tency and stan-dards
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--497
+[]|\T1/ptm/m/n/12 Perubahan tampi-lan
+ []
+
+
+Underfull \hbox (badness 7504) in paragraph at lines 497--497
+\T1/ptm/m/n/12 yang lebih seder-hana,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
+[]|\T1/ptm/m/n/12 Perbaikan ha-la-man
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
+\T1/ptm/m/n/12 ar-tikel de-ngan pen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
+\T1/ptm/m/n/12 gelom-pokkan tipe
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 498--498
+\T1/ptm/m/n/12 ar-tikel dan in-for-masi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
+[]|\T1/ptm/m/it/12 Consystency and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
+\T1/ptm/m/it/12 stan-dards, flex-i-bil-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
+\T1/ptm/m/it/12 recog-ni-tion rather
+ []
+
+
+Underfull \hbox (badness 4739) in paragraph at lines 498--498
+\T1/ptm/m/it/12 than re-call \T1/ptm/m/n/12 dan \T1/ptm/m/it/12 in-
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 498--498
+\T1/ptm/m/it/12 for-ma-tion truth and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
+[]|\T1/ptm/m/n/12 Perbaiki dan perkaya
+ []
+
+
+Underfull \hbox (badness 6332) in paragraph at lines 498--498
+\T1/ptm/m/n/12 kon-ten se-hingga lebih
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--499
+\T1/ptm/m/it/12 rec-og-nize, di-ag-nose
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--499
+\T1/ptm/m/it/12 and re-cover from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--499
+[]|\T1/ptm/m/n/12 Pemberitahuan terkait
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--500
+[]|\T1/ptm/m/n/12 Perbaikan ha-la-man
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--500
+\T1/ptm/m/n/12 down-load de-ngan
+ []
+
+
+Underfull \hbox (badness 6204) in paragraph at lines 500--500
+\T1/ptm/m/n/12 pen-gelom-pokkan file
+ []
+
+
+Underfull \hbox (badness 6927) in paragraph at lines 500--500
+[]|\T1/ptm/m/it/12 Aesthetic and min-i-
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 500--500
+\T1/ptm/m/it/12 mal-ist de-sign, match
+ []
+
+
+Underfull \hbox (badness 4492) in paragraph at lines 500--500
+\T1/ptm/m/it/12 be-tween sys-tem and
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 500--500
+\T1/ptm/m/it/12 tency and stan-dards,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--500
+\T1/ptm/m/it/12 flex-i-bil-ity and ef-fi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--500
+\T1/ptm/m/it/12 ciency of use \T1/ptm/m/n/12 dan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--500
+\T1/ptm/m/it/12 recog-ni-tion rather
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--500
+[]|\T1/ptm/m/n/12 Halaman yang lebih
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+[]|\T1/ptm/m/n/12 Perbaikan ha-la-man
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+\T1/ptm/m/n/12 apli-kasi se-ba-gai
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+\T1/ptm/m/n/12 ditawarkan kepada
+ []
+
+
+Underfull \hbox (badness 6927) in paragraph at lines 501--501
+[]|\T1/ptm/m/it/12 Aesthetic and min-i-
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 501--501
+\T1/ptm/m/it/12 mal-ist de-sign, match
+ []
+
+
+Underfull \hbox (badness 4492) in paragraph at lines 501--501
+\T1/ptm/m/it/12 be-tween sys-tem and
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 501--501
+\T1/ptm/m/it/12 tency and stan-dards,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+\T1/ptm/m/it/12 flex-i-bil-ity and ef-fi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+\T1/ptm/m/it/12 ciency of use \T1/ptm/m/n/12 dan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+\T1/ptm/m/it/12 recog-ni-tion rather
+ []
+
+
+Underfull \hbox (badness 7012) in paragraph at lines 501--501
+[]|\T1/ptm/m/n/12 Halaman apli-kasi dis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--502
+[]|\T1/ptm/m/n/12 Perbaikan ha-la-man
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--502
+\T1/ptm/m/n/12 lo-gin dari apli-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--502
+\T1/ptm/m/n/12 kasi \T1/ptm/m/it/12 e-filling \T1/ptm/m/n/12 un-tuk
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 502--502
+[]|\T1/ptm/m/n/12 Perbaiki kea-manan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+[]|\T1/ptm/m/n/12 Perbaikan ha-la-man
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\T1/ptm/m/n/12 tu-to-rial dan ben-tuk
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\T1/ptm/m/n/12 FAQ un-tuk men-
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 503--503
+\T1/ptm/m/n/12 dukung pem-be-la-jaran
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--503
+\T1/ptm/m/it/12 and doc-u-men-ta-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--504
+[]|\T1/ptm/m/n/12 Perbaikan ha-la-man
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--504
+\T1/ptm/m/n/12 yang mem-berikan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--504
+\T1/ptm/m/n/12 in-for-masi terkait
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--504
+\T1/ptm/m/n/12 pengu-mu-man se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--504
+\T1/ptm/m/n/12 hingga mem-berikan
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 504--504
+\T1/ptm/m/n/12 in-for-masi yang lebih
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 504--504
+\T1/ptm/m/it/12 for-ma-tion truth and
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 504--504
+\T1/ptm/m/n/12 u-ran dan at-u-ran yang
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 505--505
+[]|\T1/ptm/m/n/12 Perbaikan ha-la-man
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 505--505
+\T1/ptm/m/it/12 government \T1/ptm/m/n/12 se-hingga
+ []
+
+
+Underfull \hbox (badness 4543) in paragraph at lines 505--505
+[]|\T1/ptm/m/n/12 Dapat ak-ses in-for-masi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+[]|\T1/ptm/m/n/12 Perbaikan ha-la-man
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\T1/ptm/m/n/12 layanan in-for-masi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
+\T1/ptm/m/n/12 se-hingga as-pek
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 506--506
+[]|\T1/ptm/m/n/12 Informasi yang mu-dah
+ []
+
+
+Overfull \hbox (1.63031pt too wide) in alignment at lines 496--507
+ [] [] [] [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[57]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[58]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[59])
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[60]
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab5-prototyping-dan-evaluasi
+.tex"
+BAB 5.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 2.
+
+
+Overfull \hbox (3.43759pt too wide) in paragraph at lines 14--14
+[]|\T1/ptm/b/n/12 No.| 
+ []
+
+
+Underfull \hbox (badness 8094) in paragraph at lines 15--15
+\T1/ptm/m/n/12 gan me-nge-nai po-sisi pen-je-la-ja-han
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 16--16
+\T1/ptm/m/it/12 site \T1/ptm/m/n/12 meng-gu-nakan ba-hasa In-done-sia
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 17--17
+\T1/ptm/m/n/12 la-man lain de-ngan \T1/ptm/m/it/12 drop-down \T1/ptm/m/n/12 men
+u
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\T1/ptm/m/n/12 Setiap ha-la-man \T1/ptm/m/it/12 web-site \T1/ptm/m/n/12 mema
+kai
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 19--19
+\T1/ptm/m/n/12 mening-galkan \T1/ptm/m/it/12 web-site \T1/ptm/m/n/12 dari ak-ti
+v-i-tas
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 20--20
+[]|\T1/ptm/m/it/12 Recognition rather than
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 21--21
+[]|\T1/ptm/m/it/12 Flexibility and ef-fi-ciency
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 21--21
+\T1/ptm/m/it/12 cook-ies \T1/ptm/m/n/12 peng-guna se-hingga sis-tem
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 26--26
+\T1/ptm/m/it/12 site e-government \T1/ptm/m/n/12 lain-nya se-hingga
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 26--26
+\T1/ptm/m/n/12 per-tukaran in-for-masi men-jadi lebih
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]|\T1/ptm/m/n/12 Keterangan me-nge-nai in-for-masi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]|\T1/ptm/m/n/12 Desain tran-sisi ha-la-man dibuat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+\T1/ptm/m/n/12 seder-hana se-hingga meningkatkan
+ []
+
+[61
+
+
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[62] <pics/beranda.jpg, id=1394, 1284.8pt x 2007.5pt>
+File: pics/beranda.jpg Graphic file (type jpg)
+ <use pics/beranda.jpg>
+Package pdftex.def Info: pics/beranda.jpg used on input line 42.
+(pdftex.def)             Requested size: 398.3386pt x 622.41048pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[63] <pics/Artikel.jpg, id=1401, 1284.8pt x 1505.625pt>
+File: pics/Artikel.jpg Graphic file (type jpg)
+ <use pics/Artikel.jpg>
+Package pdftex.def Info: pics/Artikel.jpg used on input line 51.
+(pdftex.def)             Requested size: 398.3386pt x 466.80785pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[64 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/beranda.jpg>]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[65 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/Artikel.jpg>]
+<pics/Artikelgrup.jpg, id=1413, 1284.8pt x 2810.5pt>
+File: pics/Artikelgrup.jpg Graphic file (type jpg)
+
+<use pics/Artikelgrup.jpg>
+Package pdftex.def Info: pics/Artikelgrup.jpg used on input line 60.
+(pdftex.def)             Requested size: 398.3427pt x 654.42085pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[66]
+Overfull \vbox (2.09053pt too high) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[67 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/Artikelgrup.jpg>]
+<pics/artikelsatugrup.jpg, id=1423, 1284.8pt x 1856.9375pt>
+File: pics/artikelsatugrup.jpg Graphic file (type jpg)
+
+<use pics/artikelsatugrup.jpg>
+Package pdftex.def Info: pics/artikelsatugrup.jpg used on input line 68.
+(pdftex.def)             Requested size: 398.3386pt x 575.72969pt.
+
+<pics/Aplikasi.jpg, id=1425, 1284.8pt x 1003.75pt>
+File: pics/Aplikasi.jpg Graphic file (type jpg)
+ <use pics/Aplikasi.jpg>
+Package pdftex.def Info: pics/Aplikasi.jpg used on input line 77.
+(pdftex.def)             Requested size: 398.3386pt x 311.20523pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[68 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/artikelsatugrup.jpg>]
+<pics/pengumuman.jpg, id=1431, 1284.8pt x 2057.6875pt>
+File: pics/pengumuman.jpg Graphic file (type jpg)
+
+<use pics/pengumuman.jpg>
+Package pdftex.def Info: pics/pengumuman.jpg used on input line 86.
+(pdftex.def)             Requested size: 398.3386pt x 637.97073pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[69 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/Aplikasi.jpg>]
+<pics/error.jpg, id=1439, 1284.8pt x 803.0pt>
+File: pics/error.jpg Graphic file (type jpg)
+ <use pics/error.jpg>
+Package pdftex.def Info: pics/error.jpg used on input line 95.
+(pdftex.def)             Requested size: 398.3386pt x 248.96419pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[70 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/pengumuman.jpg>]
+<pics/peringatan.jpg, id=1446, 1284.8pt x 1003.75pt>
+File: pics/peringatan.jpg Graphic file (type jpg)
+ <use pics/peringatan.jpg>
+Package pdftex.def Info: pics/peringatan.jpg used on input line 103.
+(pdftex.def)             Requested size: 398.3386pt x 311.20523pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[71 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/error.jpg>]
+<pics/layanan.jpg, id=1453, 1284.8pt x 1304.875pt>
+File: pics/layanan.jpg Graphic file (type jpg)
+ <use pics/layanan.jpg>
+Package pdftex.def Info: pics/layanan.jpg used on input line 112.
+(pdftex.def)             Requested size: 398.3386pt x 404.5668pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[72 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/peringatan.jpg>]
+<pics/tutorial.jpg, id=1460, 1284.8pt x 1254.6875pt>
+File: pics/tutorial.jpg Graphic file (type jpg)
+ <use pics/tutorial.jpg>
+Package pdftex.def Info: pics/tutorial.jpg used on input line 121.
+(pdftex.def)             Requested size: 398.3386pt x 389.00655pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[73 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/layanan.jpg>]
+<pics/login.jpg, id=1467, 1284.8pt x 803.0pt>
+File: pics/login.jpg Graphic file (type jpg)
+ <use pics/login.jpg>
+Package pdftex.def Info: pics/login.jpg used on input line 130.
+(pdftex.def)             Requested size: 398.3386pt x 248.96419pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[74 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/tutorial.jpg>]
+<pics/formulir.jpg, id=1474, 1284.8pt x 1204.5pt>
+File: pics/formulir.jpg Graphic file (type jpg)
+ <use pics/formulir.jpg>
+Package pdftex.def Info: pics/formulir.jpg used on input line 139.
+(pdftex.def)             Requested size: 398.3386pt x 373.44627pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[75 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/login.jpg>]
+<pics/pranala.jpg, id=1481, 1284.8pt x 1003.75pt>
+File: pics/pranala.jpg Graphic file (type jpg)
+ <use pics/pranala.jpg>
+Package pdftex.def Info: pics/pranala.jpg used on input line 148.
+(pdftex.def)             Requested size: 398.3386pt x 311.20523pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[76 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/formulir.jpg>])
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[77 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/pranala.jpg>]
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab6-penutup.tex"
+BAB 6.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 2.
+
+[78
+
+
+
+]
+Underfull \hbox (badness 1264) in paragraph at lines 25--26
+[]\T1/ptm/m/n/12 Penelitian ini di-lakukan meng-gu-nakan \T1/ptm/m/it/12 usa-bi
+-lity test-ing \T1/ptm/m/n/12 de-ngan metode
  []
 
 )
@@ -1696,35 +2553,843 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[52] ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.bbl" [53
+[79] ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.bbl" [80
 
 
-])
-
-Package natbib Warning: There were undefined citations.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
+]
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[54]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
- ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.aux"
+[81])
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[82] ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\markLampiran.tex"pdfTeX 
+warning (ext4): destination with the same identifier (name{page.1}) has been al
+ready used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.13 \end{titlepage}
+                     [1
+
+])
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\lampiran.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 5--15
+
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 5--15
+\T1/ptm/m/n/12 Oleh karena itu, saya mo-hon par-tisi-pasi anda un-tuk mengisi k
+ue-sioner ini.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--15
+
+ []
+
+<pics/kuesioner.pdf, id=1542, 597.55246pt x 845.07718pt>
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf>
+Package pdftex.def Info: pics/kuesioner.pdf used on input line 16.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: pics/kuesioner.pdf Graphic file (type pdf)
+ <use pics/kuesioner.pdf>
+Package pdftex.def Info: pics/kuesioner.pdf used on input line 16.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.16 ...command={}, pages=2-8]{pics/kuesioner.pdf}
+                                                   [2
+
+
+
+]
+<pics/kuesioner.pdf, id=1548, page=2, 597.55246pt x 845.07718pt>
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf, page 2>
+Package pdftex.def Info: pics/kuesioner.pdf, page2 used on input line 16.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: pics/kuesioner.pdf Graphic file (type pdf)
+ <use pics/kuesioner.pdf, page 2>
+Package pdftex.def Info: pics/kuesioner.pdf, page2 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf, page 2>
+Package pdftex.def Info: pics/kuesioner.pdf, page2 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: pics/kuesioner.pdf Graphic file (type pdf)
+ <use pics/kuesioner.pdf, page 2>
+Package pdftex.def Info: pics/kuesioner.pdf, page2 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.16 ...command={}, pages=2-8]{pics/kuesioner.pdf}
+                                                  
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf, page 2>
+Package pdftex.def Info: pics/kuesioner.pdf, page2 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+ [3 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/kuesioner.pdf>]
+<pics/kuesioner.pdf, id=1594, page=3, 597.55246pt x 845.07718pt>
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf, page 3>
+Package pdftex.def Info: pics/kuesioner.pdf, page3 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: pics/kuesioner.pdf Graphic file (type pdf)
+ <use pics/kuesioner.pdf, page 3>
+Package pdftex.def Info: pics/kuesioner.pdf, page3 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.16 ...command={}, pages=2-8]{pics/kuesioner.pdf}
+                                                  
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf, page 3>
+Package pdftex.def Info: pics/kuesioner.pdf, page3 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+ [4 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/kuesioner.pdf>]
+<pics/kuesioner.pdf, id=1606, page=4, 597.55246pt x 845.07718pt>
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf, page 4>
+Package pdftex.def Info: pics/kuesioner.pdf, page4 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: pics/kuesioner.pdf Graphic file (type pdf)
+ <use pics/kuesioner.pdf, page 4>
+Package pdftex.def Info: pics/kuesioner.pdf, page4 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.16 ...command={}, pages=2-8]{pics/kuesioner.pdf}
+                                                  
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf, page 4>
+Package pdftex.def Info: pics/kuesioner.pdf, page4 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+ [5 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/kuesioner.pdf>]
+<pics/kuesioner.pdf, id=1612, page=5, 597.55246pt x 845.07718pt>
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf, page 5>
+Package pdftex.def Info: pics/kuesioner.pdf, page5 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: pics/kuesioner.pdf Graphic file (type pdf)
+ <use pics/kuesioner.pdf, page 5>
+Package pdftex.def Info: pics/kuesioner.pdf, page5 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.16 ...command={}, pages=2-8]{pics/kuesioner.pdf}
+                                                  
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf, page 5>
+Package pdftex.def Info: pics/kuesioner.pdf, page5 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+ [6 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/kuesioner.pdf>]
+<pics/kuesioner.pdf, id=1618, page=6, 597.55246pt x 845.07718pt>
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf, page 6>
+Package pdftex.def Info: pics/kuesioner.pdf, page6 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: pics/kuesioner.pdf Graphic file (type pdf)
+ <use pics/kuesioner.pdf, page 6>
+Package pdftex.def Info: pics/kuesioner.pdf, page6 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.16 ...command={}, pages=2-8]{pics/kuesioner.pdf}
+                                                  
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf, page 6>
+Package pdftex.def Info: pics/kuesioner.pdf, page6 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+ [7 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/kuesioner.pdf>]
+<pics/kuesioner.pdf, id=1623, page=7, 597.55246pt x 845.07718pt>
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf, page 7>
+Package pdftex.def Info: pics/kuesioner.pdf, page7 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: pics/kuesioner.pdf Graphic file (type pdf)
+ <use pics/kuesioner.pdf, page 7>
+Package pdftex.def Info: pics/kuesioner.pdf, page7 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.16 ...command={}, pages=2-8]{pics/kuesioner.pdf}
+                                                  
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf, page 7>
+Package pdftex.def Info: pics/kuesioner.pdf, page7 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+ [8 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/kuesioner.pdf>]
+<pics/kuesioner.pdf, id=1628, page=8, 597.55246pt x 845.07718pt>
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf, page 8>
+Package pdftex.def Info: pics/kuesioner.pdf, page8 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+File: pics/kuesioner.pdf Graphic file (type pdf)
+ <use pics/kuesioner.pdf, page 8>
+Package pdftex.def Info: pics/kuesioner.pdf, page8 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.16 ...command={}, pages=2-8]{pics/kuesioner.pdf}
+                                                  
+File: pics/kuesioner.pdf Graphic file (type pdf)
+
+<use pics/kuesioner.pdf, page 8>
+Package pdftex.def Info: pics/kuesioner.pdf, page8 used on input line 16.
+(pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
+ [9 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/kuesioner.pdf>]
+<pics/rekapdokumen.pdf, id=1633, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf>
+Package pdftex.def Info: pics/rekapdokumen.pdf used on input line 21.
+(pdftex.def)             Requested size: 845.07512pt x 597.551pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf>
+Package pdftex.def Info: pics/rekapdokumen.pdf used on input line 21.
+(pdftex.def)             Requested size: 845.07512pt x 597.551pt.
+
+<pics/rekapdokumen.pdf, id=1636, page=1, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 1>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page1 used on input line 21.
+(pdftex.def)             Requested size: 845.07512pt x 597.551pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 1>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page1 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 1>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page1 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 1>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page1 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 1>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page1 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [10
+
+ <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/rekapdokumen.pdf, id=1657, page=2, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 2>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page2 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 2>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page2 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 2>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page2 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [11 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/rekapdokumen.pdf, id=1662, page=3, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 3>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page3 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 3>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page3 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 3>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page3 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [12 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/rekapdokumen.pdf, id=1668, page=4, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 4>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page4 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 4>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page4 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.13}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 4>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page4 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [13 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/rekapdokumen.pdf, id=1681, page=5, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 5>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page5 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 5>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page5 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.14}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 5>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page5 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [14 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/rekapdokumen.pdf, id=1686, page=6, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 6>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page6 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 6>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page6 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.15}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 6>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page6 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [15 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/rekapdokumen.pdf, id=1691, page=7, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 7>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page7 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 7>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page7 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.16}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 7>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page7 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [16 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/rekapdokumen.pdf, id=1702, page=8, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 8>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page8 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 8>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page8 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.17}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 8>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page8 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [17 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/rekapdokumen.pdf, id=1708, page=9, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 9>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page9 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 9>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page9 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.18}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 9>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page9 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [18 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/rekapdokumen.pdf, id=1714, page=10, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 10>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page10 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 10>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page10 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.19}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 10>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page10 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [19 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/rekapdokumen.pdf, id=1719, page=11, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 11>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page11 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 11>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page11 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.20}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 11>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page11 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [20 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/rekapdokumen.pdf, id=1724, page=12, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 12>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page12 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 12>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page12 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.21}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 12>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page12 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [21 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/rekapdokumen.pdf, id=1729, page=13, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 13>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page13 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 13>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page13 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.22}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 13>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page13 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [22 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/rekapdokumen.pdf, id=1734, page=14, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 14>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page14 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 14>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page14 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.23}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 14>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page14 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [23 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/rekapdokumen.pdf, id=1739, page=15, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 15>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page15 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 15>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page15 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.24}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 15>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page15 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [24 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/rekapdokumen.pdf, id=1745, page=16, 845.07718pt x 597.55246pt>
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 16>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page16 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+ <use pics/rekapdokumen.pdf, page 16>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page16 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.25}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 ...itpaper,landscape=true]{pics/rekapdokumen}
+                                                  
+File: pics/rekapdokumen.pdf Graphic file (type pdf)
+
+<use pics/rekapdokumen.pdf, page 16>
+Package pdftex.def Info: pics/rekapdokumen.pdf, page16 used on input line 21.
+(pdftex.def)             Requested size: 845.13959pt x 597.59657pt.
+ [25 <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/rekapdokumen.pdf>]
+<pics/suratdjp.pdf, id=1750, 597.23125pt x 845.1575pt>
+File: pics/suratdjp.pdf Graphic file (type pdf)
+ <use pics/suratdjp.pdf>
+Package pdftex.def Info: pics/suratdjp.pdf used on input line 26.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: pics/suratdjp.pdf Graphic file (type pdf)
+
+<use pics/suratdjp.pdf>
+Package pdftex.def Info: pics/suratdjp.pdf used on input line 26.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<pics/suratdjp.pdf, id=1753, page=1, 597.23125pt x 845.1575pt>
+File: pics/suratdjp.pdf Graphic file (type pdf)
+
+<use pics/suratdjp.pdf, page 1>
+Package pdftex.def Info: pics/suratdjp.pdf, page1 used on input line 26.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: pics/suratdjp.pdf Graphic file (type pdf)
+ <use pics/suratdjp.pdf, page 1>
+Package pdftex.def Info: pics/suratdjp.pdf, page1 used on input line 26.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: pics/suratdjp.pdf Graphic file (type pdf)
+
+<use pics/suratdjp.pdf, page 1>
+Package pdftex.def Info: pics/suratdjp.pdf, page1 used on input line 26.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+File: pics/suratdjp.pdf Graphic file (type pdf)
+ <use pics/suratdjp.pdf, page 1>
+Package pdftex.def Info: pics/suratdjp.pdf, page1 used on input line 26.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.26}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.26 ...}, pages={-}, fitpaper]{pics/suratdjp.pdf}
+                                                  
+File: pics/suratdjp.pdf Graphic file (type pdf)
+
+<use pics/suratdjp.pdf, page 1>
+Package pdftex.def Info: pics/suratdjp.pdf, page1 used on input line 26.
+(pdftex.def)             Requested size: 597.33913pt x 845.31018pt.
+ [26
+
+ <C:/Users/Aldi Reinaldi/Documents/GitHub/TAmenoy/pics/suratdjp.pdf>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 135.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
+
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\skripsi.aux"
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\sampul.aux")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\judul_dalam.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\orisinal.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\pengesahan_sidang.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\pengantar.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\persetujuan_publikasi.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\abstrak.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\abstract.aux")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab1-pendahuluan.aux")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab2-tinjauan-pustaka.aux")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab3-metodologi-penelitian.au
 x")
 ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab4-analisis-dan-pembahasan.
-aux"))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
+aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab5-prototyping-dan-evaluasi
+.aux") ("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\bab6-penutup.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\markLampiran.aux")
+("C:\Users\Aldi Reinaldi\Documents\GitHub\TAmenoy\lampiran.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 135.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 135.
 Package rerunfilecheck Info: File `skripsi.out' has not changed.
-(rerunfilecheck)             Checksum: 6C265041C5C51308C8B7713574D39EB9;4845.
+(rerunfilecheck)             Checksum: 2F620FD478F01E57ED2A687242A0E4F6;5559.
 
 
 LaTeX Warning: There were undefined references.
@@ -1732,26 +3397,44 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 135.
  ) 
 Here is how much of TeX's memory you used:
- 12977 strings out of 493921
- 193998 string characters out of 3147258
- 300499 words of memory out of 3000000
- 15577 multiletter control sequences out of 15000+200000
- 53869 words of font info for 71 fonts, out of 3000000 for 9000
- 940 hyphenation exceptions out of 8191
- 44i,14n,77p,1722b,641s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/ti
-mes/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on skripsi.pdf (61 pages, 1098791 bytes).
+ 13445 strings out of 493921
+ 204795 string characters out of 3147258
+ 326138 words of memory out of 3000000
+ 15821 multiletter control sequences out of 15000+200000
+ 66176 words of font info for 92 fonts, out of 3000000 for 9000
+ 941 hyphenation exceptions out of 8191
+ 44i,18n,84p,1726b,656s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
+, replaced by a fixed one
+
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/time
+s/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on skripsi.pdf (123 pages, 12464242 bytes).
 PDF statistics:
- 1143 PDF objects out of 1200 (max. 8388607)
- 279 named destinations out of 1000 (max. 500000)
- 683 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1875 PDF objects out of 2073 (max. 8388607)
+ 416 named destinations out of 1000 (max. 500000)
+ 1009 words of extra memory for PDF output out of 10000 (max. 10000000)
 
