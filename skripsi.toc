@@ -4,73 +4,75 @@
 \contentsline {chapter}{\uppercase {Kata Pengantar}}{iv}{section*.6}
 \contentsline {chapter}{LEMBAR PERSETUJUAN PUBLIKASI ILMIAH}{vi}{section*.7}
 \contentsline {chapter}{ABSTRAK}{vii}{section*.8}
-\contentsline {chapter}{Daftar Isi}{ix}{section*.8}
-\contentsline {chapter}{Daftar Gambar}{xii}{section*.8}
-\contentsline {chapter}{Daftar Tabel}{xiii}{section*.8}
+\contentsline {chapter}{DAFTAR ISI}{ix}{section*.8}
+\contentsline {chapter}{DAFTAR GAMBAR}{xii}{section*.8}
+\contentsline {chapter}{DAFTAR TABEL}{xiii}{section*.8}
 \contentsline {chapter}{\numberline {1}\uppercase {Pendahuluan}}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Perumusan Masalah}{2}{section.1.2}
+\contentsline {section}{\numberline {1.2}Perumusan Masalah}{3}{section.1.2}
 \contentsline {section}{\numberline {1.3}Tujuan Penelitian}{3}{section.1.3}
-\contentsline {section}{\numberline {1.4}Batasan Penelitian}{3}{section.1.4}
+\contentsline {section}{\numberline {1.4}Batasan Penelitian}{4}{section.1.4}
 \contentsline {section}{\numberline {1.5}Sistematika Penulisan}{4}{section.1.5}
-\contentsline {chapter}{\numberline {2}\uppercase {Tinjauan Pustaka}}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}\textit {Human Computer Interaction}}{5}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}\textit {Usability}}{5}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}\textit {User Experience}}{6}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}\textit {Nielsen's Usability Heuristics}}{7}{subsection.2.1.3}
-\contentsline {section}{\numberline {2.2}\textit {Usability Testing}}{9}{section.2.2}
-\contentsline {section}{\numberline {2.3}\textit {E-Government}}{11}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Metode \textit {g-Quality}}{11}{subsection.2.3.1}
-\contentsline {section}{\numberline {2.4}\textit {Prototyping}}{13}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}\textit {Low-Fidelity Prototyping}}{14}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}\textit {High-Fidelity Prototyping}}{15}{subsection.2.4.2}
-\contentsline {section}{\numberline {2.5}\textit {Website} Direktorat Jenderal Pajak}{15}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}\textit {Website} Direktorat Jenderal Pajak Indonesia}{16}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}\textit {Website} Direktorat Jenderal Pajak India}{16}{subsection.2.5.2}
-\contentsline {section}{\numberline {2.6}Aplikasi \textit {Web} InvisionApp}{17}{section.2.6}
-\contentsline {chapter}{\numberline {3}\uppercase {Metodologi Penelitian}}{18}{chapter.3}
-\contentsline {section}{\numberline {3.1}Pendekatan Penelitian}{18}{section.3.1}
-\contentsline {section}{\numberline {3.2}Populasi dan Sampel}{18}{section.3.2}
-\contentsline {section}{\numberline {3.3}Tahapan Penelitian}{19}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Perumusan Masalah}{19}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Studi Literatur}{19}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Penyusunan Rancangan Penelitian}{19}{subsection.3.3.3}
-\contentsline {subsubsection}{\numberline {3.3.3.1}Mengembangkan \textit {Test Plan}}{19}{subsubsection.3.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.3.2}Perancangan tugas dan kuesioner}{21}{subsubsection.3.3.3.2}
-\contentsline {subsubsection}{\numberline {3.3.3.3}Menentukan tipe data}{24}{subsubsection.3.3.3.3}
-\contentsline {subsubsection}{\numberline {3.3.3.4}Persiapan pelaksanaan \textit {usability testing}}{24}{subsubsection.3.3.3.4}
-\contentsline {subsection}{\numberline {3.3.4}Pelaksanaan Penelitian}{25}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Analisis Data dan \textit {Requirement Gathering}}{26}{subsection.3.3.5}
-\contentsline {subsection}{\numberline {3.3.6}Perancangan \textit {Prototype}}{26}{subsection.3.3.6}
-\contentsline {section}{\numberline {3.4}Metode Pengumpulan Data}{26}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Jenis dan Sumber Data}{26}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Teknik Pengumpulan Data}{27}{subsection.3.4.2}
-\contentsline {section}{\numberline {3.5}Metode Analisis Data}{28}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Uji Normalitas}{28}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {3.5.2}\textit {Paired Samples t-Test}}{30}{subsection.3.5.2}
-\contentsline {chapter}{\numberline {4}\uppercase {Analisis Data dan Pembahasan}}{32}{chapter.4}
-\contentsline {section}{\numberline {4.1}Demografi Responden}{32}{section.4.1}
-\contentsline {section}{\numberline {4.2}Uji Validitas dan Reliabilitas}{36}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Uji Validitas}{36}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Uji Realibilitas}{38}{subsection.4.2.2}
-\contentsline {section}{\numberline {4.3}Analisis Data}{39}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}\textit {Usability Heuristic}}{39}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Kepuasan Pengguna}{42}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Komponen \textit {g-Quality}}{44}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}Efisiensi}{47}{subsection.4.3.4}
-\contentsline {subsection}{\numberline {4.3.5}Efektivitas}{49}{subsection.4.3.5}
-\contentsline {subsection}{\numberline {4.3.6}Tingkat Kesalahan Pengguna}{51}{subsection.4.3.6}
-\contentsline {subsection}{\numberline {4.3.7}Preferensi Pengguna}{53}{subsection.4.3.7}
-\contentsline {subsection}{\numberline {4.3.8}Analisa Perbandingan Teori}{55}{subsection.4.3.8}
-\contentsline {subsection}{\numberline {4.3.9}Rekomendasi Perbaikan}{57}{subsection.4.3.9}
-\contentsline {chapter}{\numberline {5}\uppercase {Pengembangan \textit {Prototype}}}{61}{chapter.5}
-\contentsline {section}{\numberline {5.1}Perancangan Strategi Perbaikan}{61}{section.5.1}
-\contentsline {section}{\numberline {5.2}\textit {Clickable-Prototype}}{63}{section.5.2}
-\contentsline {chapter}{\numberline {6}\uppercase {Penutup}}{78}{chapter.6}
-\contentsline {section}{\numberline {6.1}Kesimpulan}{78}{section.6.1}
-\contentsline {section}{\numberline {6.2}Saran}{79}{section.6.2}
-\contentsline {chapter}{Daftar Referensi}{80}{Item.153}
-\contentsline {chapter}{LAMPIRAN}{1}{section*.62}
-\contentsline {chapter}{Lampiran 1 : Kuesioner Penelitian}{2}{section*.63}
-\contentsline {chapter}{Lampiran 2 : Hasil Kuesioner}{10}{section*.64}
-\contentsline {chapter}{Lampiran 3 : Izin Penelitian DJP}{26}{section*.65}
+\contentsline {chapter}{\numberline {2}\uppercase {Tinjauan Pustaka}}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}\textit {Human Computer Interaction}}{6}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}\textit {Usability}}{6}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}\textit {User Experience}}{7}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}\textit {Nielsen's Usability Heuristics}}{8}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}\textit {Usability Testing}}{10}{section.2.2}
+\contentsline {section}{\numberline {2.3}\textit {E-Government}}{12}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Metode \textit {g-Quality}}{12}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}\textit {Prototyping}}{14}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}\textit {Low-Fidelity Prototyping}}{15}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}\textit {High-Fidelity Prototyping}}{16}{subsection.2.4.2}
+\contentsline {section}{\numberline {2.5}\textit {Website} Direktorat Jenderal Pajak}{16}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}\textit {Website} Direktorat Jenderal Pajak Indonesia}{17}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}\textit {Website} Direktorat Jenderal Pajak India}{18}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}Aplikasi \textit {Web} InvisionApp}{19}{section.2.6}
+\contentsline {chapter}{\numberline {3}\uppercase {Metodologi Penelitian}}{20}{chapter.3}
+\contentsline {section}{\numberline {3.1}Pendekatan Penelitian}{20}{section.3.1}
+\contentsline {section}{\numberline {3.2}Populasi dan Sampel}{20}{section.3.2}
+\contentsline {section}{\numberline {3.3}Tahapan Penelitian}{21}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Perumusan Masalah}{22}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Studi Literatur}{22}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Penyusunan Rancangan Survei}{22}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Persiapan Pelaksanaan Penelitian}{23}{subsection.3.3.4}
+\contentsline {subsubsection}{\numberline {3.3.4.1}Persiapan Tes}{24}{subsubsection.3.3.4.1}
+\contentsline {subsubsection}{\numberline {3.3.4.2}\textit {Pre-Test}}{24}{subsubsection.3.3.4.2}
+\contentsline {subsubsection}{\numberline {3.3.4.3}Test Monitor Activities}{24}{subsubsection.3.3.4.3}
+\contentsline {subsection}{\numberline {3.3.5}Pelaksanaan Penelitian}{25}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Analisis Data dan \textit {Requirement Gathering}}{25}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}Perancangan \textit {Prototype}}{26}{subsection.3.3.7}
+\contentsline {section}{\numberline {3.4}Instrumen Penelitian}{26}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Perancangan Tugas}{26}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Perancangan Kuesioner}{27}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Penentuan Tipe Data}{30}{subsection.3.4.3}
+\contentsline {section}{\numberline {3.5}Metode Pengumpulan Data}{31}{section.3.5}
+\contentsline {section}{\numberline {3.6}Metode Analisis Data}{32}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Uji Normalitas}{33}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}\textit {Paired Samples t-Test}}{34}{subsection.3.6.2}
+\contentsline {chapter}{\numberline {4}\uppercase {Analisis Data dan Pembahasan}}{36}{chapter.4}
+\contentsline {section}{\numberline {4.1}Demografi Responden}{36}{section.4.1}
+\contentsline {section}{\numberline {4.2}Uji Validitas dan Reliabilitas}{40}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Uji Validitas}{40}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Uji Realibilitas}{42}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Analisis Data}{43}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Komponen \textit {Usability Heuristic}}{43}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Komponen Kepuasan Pengguna}{46}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Komponen \textit {g-Quality}}{48}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Efisiensi}{51}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Efektivitas}{53}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}Tingkat Kesalahan Pengguna}{55}{subsection.4.3.6}
+\contentsline {subsection}{\numberline {4.3.7}Preferensi Pengguna}{57}{subsection.4.3.7}
+\contentsline {subsection}{\numberline {4.3.8}Analisis Perbandingan Teori}{60}{subsection.4.3.8}
+\contentsline {subsection}{\numberline {4.3.9}Rekomendasi Perbaikan}{62}{subsection.4.3.9}
+\contentsline {chapter}{\numberline {5}\uppercase {Pengembangan \textit {Prototype}}}{66}{chapter.5}
+\contentsline {section}{\numberline {5.1}Perancangan Strategi Perbaikan}{66}{section.5.1}
+\contentsline {section}{\numberline {5.2}\textit {Clickable-Prototype}}{68}{section.5.2}
+\contentsline {chapter}{\numberline {6}\uppercase {Penutup}}{83}{chapter.6}
+\contentsline {section}{\numberline {6.1}Kesimpulan}{83}{section.6.1}
+\contentsline {section}{\numberline {6.2}Saran}{84}{section.6.2}
+\contentsline {chapter}{DAFTAR PUSTAKA}{85}{Item.148}
+\contentsline {chapter}{LAMPIRAN}{1}{section*.66}
+\contentsline {chapter}{Lampiran 1 : Kuesioner Penelitian}{2}{section*.67}
+\contentsline {chapter}{Lampiran 2 : Hasil Kuesioner}{10}{section*.68}
+\contentsline {chapter}{Lampiran 3 : Izin Penelitian DJP}{26}{section*.69}

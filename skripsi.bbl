@@ -1,5 +1,12 @@
 \begin{thebibliography}{}
 
+\bibitem[Alotaibi, 2013]{paper.alotaibi}
+Alotaibi, M. (2013).
+\newblock Assessing the usability of university websites in saudi arabia: A
+  heuristic evaluation approach.
+\newblock In {\em Information Technology: New Generations (ITNG), 2013 Tenth
+  International Conference on}, pages 138--142.
+
 \bibitem[Alsos, 2010]{buku.alsos}
 Alsos, O. (2010).
 \newblock A new perspective on ux: The indirect user experience.
@@ -19,12 +26,6 @@ Dumas, J. dan Loring, B. (2008).
   Interacting}.
 \newblock Morgan Kaufmann Publishsers.
 
-\bibitem[Dyahningrum, 2012]{buku.dyahningrum}
-Dyahningrum, S. (2012).
-\newblock {\em Perancangan Strategi dan User Interface Layanan Online Video
-  Sharing pada PT. Beoscope Dotkom}.
-\newblock Depok: Fakultas Ilmu Komputer Universitas Indonesia.
-
 \bibitem[Evans dan Yen, 2006]{paper.yen}
 Evans, D. dan Yen, D. (2006).
 \newblock E-government: Evolving relationship of citizens and government,
@@ -36,6 +37,11 @@ Field, A. (2005).
 \newblock {\em Discovering Statistics Using SPSS: Second Edition (and sex,
   drugs and rock 'n' roll}.
 \newblock SAGE Publications Inc.
+
+\bibitem[for Public~Administration, 2002]{buku.un}
+for Public~Administration, U. N. . A.~S. (2002).
+\newblock {\em Benchmarking E-government : A Global Perspective}.
+\newblock U.N. Publications.
 
 \bibitem[Garcia et~al., 2005]{paper.garcia}
 Garcia, A., Maciel, C., dan F.B., P. (2005).
@@ -57,6 +63,12 @@ Hasibuan, Z.~A. (2007).
 \newblock In {\em Jurnal Sistem Informasi-MTI UI (JSI) Vol. 3}, pages 66--70.
   Magister Teknologi Informasi Fasilkom, Jakarta, Indonesia.
 
+\bibitem[Markham, 2000]{article.csse}
+Markham, S. (2000).
+\newblock Parametric versus non-parametric.
+\newblock \url{http://www.csse.monash.edu.au/~smarkham/resources/param.htm}.
+\newblock [Diakses 7 Juli 2015].
+
 \bibitem[Mathew et~al., 2011]{paper.mathew}
 Mathew, A., Al~Hajj, A., dan Al~Abri, A. (2011).
 \newblock Human-computer interaction (hci): An overview.
@@ -69,17 +81,12 @@ Morville, P. (2004).
 \newblock \url{http://semanticstudios.com/user_experience_design/}.
 \newblock [Diakses 31 April 2015].
 
-\bibitem[Nariman, 2001]{paper.dahlan}
-Nariman, D. (2001).
+\bibitem[Nariman, 2010]{paper.dahlan}
+Nariman, D. (2010).
 \newblock E-government websites evaluation using correspondence analysis.
 \newblock In {\em 2010 International Conference on Complex, Inteligent and
   Software Intensive System}, JSSPP '01, pages 87--102, London, UK, UK.
   Springer-Verlag.
-
-\bibitem[Nations dan for Public~Administration, 2002]{buku.un}
-Nations, U. dan for Public~Administration, A.~S. (2002).
-\newblock {\em Benchmarking E-government : A Global Perspective}.
-\newblock U.N. Publications.
 
 \bibitem[Newsom, 2013]{ho.newsom}
 Newsom, J.~T. (2013).
@@ -93,11 +100,18 @@ Nielsen, J. (1995).
 \newblock \url{http://www.nngroup.com/articles/ten-usability-heuristics/}.
 \newblock [Diakses 29 April 2015].
 
-\bibitem[Nielsen, 2012]{article.5ux}
-Nielsen, J. (2012).
+\bibitem[Nielsen, 2012a]{article.5ux}
+Nielsen, J. (2012a).
 \newblock Usability 101: Introduction to usability.
 \newblock \url{http://www.usablestats.com/lessons/noir}.
 \newblock [Diakses 31 April 2015].
+
+\bibitem[Nielsen, 2012b]{article.nielsen2}
+Nielsen, J. (2012b).
+\newblock Usability 101: Introduction to usability.
+\newblock
+  \url{http://www.nngroup.com/articles/usability-101-introduction-to-usability/}.
+\newblock [Diakses 29 April 2015].
 
 \bibitem[Preece et~al., 2002]{buku.preece}
 Preece, J., Rogers, Y., dan Sharp, H. (2002).

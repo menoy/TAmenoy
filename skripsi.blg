@@ -17,10 +17,3 @@ The style file: apalikerd.bst
 A level-1 auxiliary file: markLampiran.aux
 A level-1 auxiliary file: lampiran.aux
 Database file #1: bib.bib
-Name 1 in "United Nations, and American Society for Public Administration" has a comma at the end for entry buku.un
-while executing---line 1020 of file apalikerd.bst
-Name 1 in "United Nations, and American Society for Public Administration" has a comma at the end for entry buku.un
-while executing---line 1020 of file apalikerd.bst
-Name 1 in "United Nations, and American Society for Public Administration" has a comma at the end for entry buku.un
-while executing---line 1095 of file apalikerd.bst
-(There were 3 error messages)

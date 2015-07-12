@@ -4,9 +4,9 @@
 \BOOKMARK [0][-]{section*.6}{Kata Pengantar}{}% 4
 \BOOKMARK [0][-]{section*.7}{LEMBAR PERSETUJUAN PUBLIKASI ILMIAH}{}% 5
 \BOOKMARK [0][-]{section*.8}{ABSTRAK}{}% 6
-\BOOKMARK [0][-]{section*.8}{Daftar Isi}{}% 7
-\BOOKMARK [0][-]{section*.8}{Daftar Gambar}{}% 8
-\BOOKMARK [0][-]{section*.8}{Daftar Tabel}{}% 9
+\BOOKMARK [0][-]{section*.8}{DAFTAR ISI}{}% 7
+\BOOKMARK [0][-]{section*.8}{DAFTAR GAMBAR}{}% 8
+\BOOKMARK [0][-]{section*.8}{DAFTAR TABEL}{}% 9
 \BOOKMARK [0][-]{chapter.1}{1 Pendahuluan}{}% 10
 \BOOKMARK [1][-]{section.1.1}{1.1 Latar Belakang}{chapter.1}% 11
 \BOOKMARK [1][-]{section.1.2}{1.2 Perumusan Masalah}{chapter.1}% 12
@@ -34,43 +34,45 @@
 \BOOKMARK [1][-]{section.3.3}{3.3 Tahapan Penelitian}{chapter.3}% 34
 \BOOKMARK [2][-]{subsection.3.3.1}{3.3.1 Perumusan Masalah}{section.3.3}% 35
 \BOOKMARK [2][-]{subsection.3.3.2}{3.3.2 Studi Literatur}{section.3.3}% 36
-\BOOKMARK [2][-]{subsection.3.3.3}{3.3.3 Penyusunan Rancangan Penelitian}{section.3.3}% 37
-\BOOKMARK [3][-]{subsubsection.3.3.3.1}{3.3.3.1 Mengembangkan Test Plan}{subsection.3.3.3}% 38
-\BOOKMARK [3][-]{subsubsection.3.3.3.2}{3.3.3.2 Perancangan tugas dan kuesioner}{subsection.3.3.3}% 39
-\BOOKMARK [3][-]{subsubsection.3.3.3.3}{3.3.3.3 Menentukan tipe data}{subsection.3.3.3}% 40
-\BOOKMARK [3][-]{subsubsection.3.3.3.4}{3.3.3.4 Persiapan pelaksanaan usability testing}{subsection.3.3.3}% 41
-\BOOKMARK [2][-]{subsection.3.3.4}{3.3.4 Pelaksanaan Penelitian}{section.3.3}% 42
-\BOOKMARK [2][-]{subsection.3.3.5}{3.3.5 Analisis Data dan Requirement Gathering}{section.3.3}% 43
-\BOOKMARK [2][-]{subsection.3.3.6}{3.3.6 Perancangan Prototype}{section.3.3}% 44
-\BOOKMARK [1][-]{section.3.4}{3.4 Metode Pengumpulan Data}{chapter.3}% 45
-\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 Jenis dan Sumber Data}{section.3.4}% 46
-\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 Teknik Pengumpulan Data}{section.3.4}% 47
-\BOOKMARK [1][-]{section.3.5}{3.5 Metode Analisis Data}{chapter.3}% 48
-\BOOKMARK [2][-]{subsection.3.5.1}{3.5.1 Uji Normalitas}{section.3.5}% 49
-\BOOKMARK [2][-]{subsection.3.5.2}{3.5.2 Paired Samples t-Test}{section.3.5}% 50
-\BOOKMARK [0][-]{chapter.4}{4 Analisis Data dan Pembahasan}{}% 51
-\BOOKMARK [1][-]{section.4.1}{4.1 Demografi Responden}{chapter.4}% 52
-\BOOKMARK [1][-]{section.4.2}{4.2 Uji Validitas dan Reliabilitas}{chapter.4}% 53
-\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Uji Validitas}{section.4.2}% 54
-\BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 Uji Realibilitas}{section.4.2}% 55
-\BOOKMARK [1][-]{section.4.3}{4.3 Analisis Data}{chapter.4}% 56
-\BOOKMARK [2][-]{subsection.4.3.1}{4.3.1 Usability Heuristic}{section.4.3}% 57
-\BOOKMARK [2][-]{subsection.4.3.2}{4.3.2 Kepuasan Pengguna}{section.4.3}% 58
-\BOOKMARK [2][-]{subsection.4.3.3}{4.3.3 Komponen g-Quality}{section.4.3}% 59
-\BOOKMARK [2][-]{subsection.4.3.4}{4.3.4 Efisiensi}{section.4.3}% 60
-\BOOKMARK [2][-]{subsection.4.3.5}{4.3.5 Efektivitas}{section.4.3}% 61
-\BOOKMARK [2][-]{subsection.4.3.6}{4.3.6 Tingkat Kesalahan Pengguna}{section.4.3}% 62
-\BOOKMARK [2][-]{subsection.4.3.7}{4.3.7 Preferensi Pengguna}{section.4.3}% 63
-\BOOKMARK [2][-]{subsection.4.3.8}{4.3.8 Analisa Perbandingan Teori}{section.4.3}% 64
-\BOOKMARK [2][-]{subsection.4.3.9}{4.3.9 Rekomendasi Perbaikan}{section.4.3}% 65
-\BOOKMARK [0][-]{chapter.5}{5 Pengembangan Prototype}{}% 66
-\BOOKMARK [1][-]{section.5.1}{5.1 Perancangan Strategi Perbaikan}{chapter.5}% 67
-\BOOKMARK [1][-]{section.5.2}{5.2 Clickable-Prototype}{chapter.5}% 68
-\BOOKMARK [0][-]{chapter.6}{6 Penutup}{}% 69
-\BOOKMARK [1][-]{section.6.1}{6.1 Kesimpulan}{chapter.6}% 70
-\BOOKMARK [1][-]{section.6.2}{6.2 Saran}{chapter.6}% 71
-\BOOKMARK [0][-]{Item.153}{Daftar Referensi}{}% 72
-\BOOKMARK [0][-]{section*.62}{LAMPIRAN}{}% 73
-\BOOKMARK [0][-]{section*.63}{Lampiran 1 : Kuesioner Penelitian}{}% 74
-\BOOKMARK [0][-]{section*.64}{Lampiran 2 : Hasil Kuesioner}{}% 75
-\BOOKMARK [0][-]{section*.65}{Lampiran 3 : Izin Penelitian DJP}{}% 76
+\BOOKMARK [2][-]{subsection.3.3.3}{3.3.3 Penyusunan Rancangan Survei}{section.3.3}% 37
+\BOOKMARK [2][-]{subsection.3.3.4}{3.3.4 Persiapan Pelaksanaan Penelitian}{section.3.3}% 38
+\BOOKMARK [3][-]{subsubsection.3.3.4.1}{3.3.4.1 Persiapan Tes}{subsection.3.3.4}% 39
+\BOOKMARK [3][-]{subsubsection.3.3.4.2}{3.3.4.2 Pre-Test}{subsection.3.3.4}% 40
+\BOOKMARK [3][-]{subsubsection.3.3.4.3}{3.3.4.3 Test Monitor Activities}{subsection.3.3.4}% 41
+\BOOKMARK [2][-]{subsection.3.3.5}{3.3.5 Pelaksanaan Penelitian}{section.3.3}% 42
+\BOOKMARK [2][-]{subsection.3.3.6}{3.3.6 Analisis Data dan Requirement Gathering}{section.3.3}% 43
+\BOOKMARK [2][-]{subsection.3.3.7}{3.3.7 Perancangan Prototype}{section.3.3}% 44
+\BOOKMARK [1][-]{section.3.4}{3.4 Instrumen Penelitian}{chapter.3}% 45
+\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 Perancangan Tugas}{section.3.4}% 46
+\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 Perancangan Kuesioner}{section.3.4}% 47
+\BOOKMARK [2][-]{subsection.3.4.3}{3.4.3 Penentuan Tipe Data}{section.3.4}% 48
+\BOOKMARK [1][-]{section.3.5}{3.5 Metode Pengumpulan Data}{chapter.3}% 49
+\BOOKMARK [1][-]{section.3.6}{3.6 Metode Analisis Data}{chapter.3}% 50
+\BOOKMARK [2][-]{subsection.3.6.1}{3.6.1 Uji Normalitas}{section.3.6}% 51
+\BOOKMARK [2][-]{subsection.3.6.2}{3.6.2 Paired Samples t-Test}{section.3.6}% 52
+\BOOKMARK [0][-]{chapter.4}{4 Analisis Data dan Pembahasan}{}% 53
+\BOOKMARK [1][-]{section.4.1}{4.1 Demografi Responden}{chapter.4}% 54
+\BOOKMARK [1][-]{section.4.2}{4.2 Uji Validitas dan Reliabilitas}{chapter.4}% 55
+\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Uji Validitas}{section.4.2}% 56
+\BOOKMARK [2][-]{subsection.4.2.2}{4.2.2 Uji Realibilitas}{section.4.2}% 57
+\BOOKMARK [1][-]{section.4.3}{4.3 Analisis Data}{chapter.4}% 58
+\BOOKMARK [2][-]{subsection.4.3.1}{4.3.1 Komponen Usability Heuristic}{section.4.3}% 59
+\BOOKMARK [2][-]{subsection.4.3.2}{4.3.2 Komponen Kepuasan Pengguna}{section.4.3}% 60
+\BOOKMARK [2][-]{subsection.4.3.3}{4.3.3 Komponen g-Quality}{section.4.3}% 61
+\BOOKMARK [2][-]{subsection.4.3.4}{4.3.4 Efisiensi}{section.4.3}% 62
+\BOOKMARK [2][-]{subsection.4.3.5}{4.3.5 Efektivitas}{section.4.3}% 63
+\BOOKMARK [2][-]{subsection.4.3.6}{4.3.6 Tingkat Kesalahan Pengguna}{section.4.3}% 64
+\BOOKMARK [2][-]{subsection.4.3.7}{4.3.7 Preferensi Pengguna}{section.4.3}% 65
+\BOOKMARK [2][-]{subsection.4.3.8}{4.3.8 Analisis Perbandingan Teori}{section.4.3}% 66
+\BOOKMARK [2][-]{subsection.4.3.9}{4.3.9 Rekomendasi Perbaikan}{section.4.3}% 67
+\BOOKMARK [0][-]{chapter.5}{5 Pengembangan Prototype}{}% 68
+\BOOKMARK [1][-]{section.5.1}{5.1 Perancangan Strategi Perbaikan}{chapter.5}% 69
+\BOOKMARK [1][-]{section.5.2}{5.2 Clickable-Prototype}{chapter.5}% 70
+\BOOKMARK [0][-]{chapter.6}{6 Penutup}{}% 71
+\BOOKMARK [1][-]{section.6.1}{6.1 Kesimpulan}{chapter.6}% 72
+\BOOKMARK [1][-]{section.6.2}{6.2 Saran}{chapter.6}% 73
+\BOOKMARK [0][-]{Item.148}{DAFTAR PUSTAKA}{}% 74
+\BOOKMARK [0][-]{section*.66}{LAMPIRAN}{}% 75
+\BOOKMARK [0][-]{section*.67}{Lampiran 1 : Kuesioner Penelitian}{}% 76
+\BOOKMARK [0][-]{section*.68}{Lampiran 2 : Hasil Kuesioner}{}% 77
+\BOOKMARK [0][-]{section*.69}{Lampiran 3 : Izin Penelitian DJP}{}% 78
